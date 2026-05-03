@@ -1,0 +1,767 @@
+[
+  {
+    "id": "2603.15603v1",
+    "date": "2026-03-18",
+    "title": "Fast SAM 3D Body: Accelerating SAM 3D Body for Real-Time Full-Body Human Mesh Recovery"
+  },
+  {
+    "id": "2603.15956v1",
+    "date": "2026-03-18",
+    "title": "ExpertGen: Scalable Sim-to-Real Expert Policy Learning from Imperfect Behavior Priors"
+  },
+  {
+    "id": "2603.16218v1",
+    "date": "2026-03-18",
+    "title": "Enabling Dynamic Tracking in Vision-Language-Action Models via Time-Discrete and Time-Continuous Velocity Feedforward"
+  },
+  {
+    "id": "2603.16368v1",
+    "date": "2026-03-18",
+    "title": "Encoding Predictability and Legibility for Style-Conditioned Diffusion Policy"
+  },
+  {
+    "id": "2603.16478v1",
+    "date": "2026-03-18",
+    "title": "Fast and Reliable Gradients for Deformables Across Frictional Contact Regimes"
+  },
+  {
+    "id": "2603.16536v1",
+    "date": "2026-03-18",
+    "title": "Kamino: GPU-based Massively Parallel Simulation of Multi-Body Systems with Challenging Topologies"
+  },
+  {
+    "id": "2603.16542v1",
+    "date": "2026-03-18",
+    "title": "Conservative Offline Robot Policy Learning via Posterior-Transition Reweighting"
+  },
+  {
+    "id": "2603.16669v1",
+    "date": "2026-03-18",
+    "title": "Kinema4D: Kinematic 4D World Modeling for Spatiotemporal Embodied Simulation"
+  },
+  {
+    "id": "2603.16683v1",
+    "date": "2026-03-18",
+    "title": "Learning Whole-Body Control for a Salamander Robot"
+  },
+  {
+    "id": "2603.16772v1",
+    "date": "2026-03-18",
+    "title": "Beyond Cybathlon: On-demand Quadrupedal Assistance for People with Limited Mobility"
+  },
+  {
+    "id": "2603.16806v1",
+    "date": "2026-03-18",
+    "title": "DexGrasp-Zero: A Morphology-Aligned Policy for Zero-Shot Cross-Embodiment Dexterous Grasping"
+  },
+  {
+    "id": "2603.16853v1",
+    "date": "2026-03-18",
+    "title": "BrickSim: A Physics-Based Simulator for Manipulating Interlocking Brick Assemblies"
+  },
+  {
+    "id": "2603.16860v1",
+    "date": "2026-03-18",
+    "title": "DreamPlan: Efficient Reinforcement Fine-Tuning of Vision-Language Planners via Video World Models"
+  },
+  {
+    "id": "2603.16861v1",
+    "date": "2026-03-18",
+    "title": "MolmoB0T: Large-Scale Simulation Enables Zero-Shot Manipulation"
+  },
+  {
+    "id": "2603.16866v1",
+    "date": "2026-03-18",
+    "title": "ManiTwin: Scaling Data-Generation-Ready Digital Object Dataset to 100K"
+  },
+  {
+    "id": "2603.17016v1",
+    "date": "2026-03-19",
+    "title": "Efficient and Reliable Teleoperation through Real-to-Sim-to-Real Shared Autonomy"
+  },
+  {
+    "id": "2603.17065v1",
+    "date": "2026-03-19",
+    "title": "TeleDex: Accessible Dexterous Teleoperation"
+  },
+  {
+    "id": "2603.17240v1",
+    "date": "2026-03-19",
+    "title": "GigaWorld-Policy: An Efficient Action-Centered World--Action Model"
+  },
+  {
+    "id": "2603.17524v1",
+    "date": "2026-03-19",
+    "title": "KineVLA: Towards Kinematics-Aware Vision-Language-Action Models with Bi-Level Action Decomposition"
+  },
+  {
+    "id": "2603.17720v1",
+    "date": "2026-03-19",
+    "title": "VolumeDP: Modeling Volumetric Representation for Manipulation Policy Learning"
+  },
+  {
+    "id": "2603.17850v1",
+    "date": "2026-03-19",
+    "title": "ProbeFlow: Training-Free Adaptive Flow Matching for Vision-Language-Action Models"
+  },
+  {
+    "id": "2603.17851v1",
+    "date": "2026-03-19",
+    "title": "DexViTac: Collecting Human Visuo-Tactile-Kinematic Demonstrations for Contact-Rich Dexterous Manipulation"
+  },
+  {
+    "id": "2603.17927v1",
+    "date": "2026-03-19",
+    "title": "RoboForge: Physically Optimized Text-guided Whole-Body Locomotion for Humanoids"
+  },
+  {
+    "id": "2603.17993v1",
+    "date": "2026-03-19",
+    "title": "GMT: Goal-Conditioned Multimodal Transformer for 6-DOF Object Trajectory Synthesis in 3D Scenes"
+  },
+  {
+    "id": "2509.06951",
+    "date": "2026-03-23",
+    "title": "F1: A Vision-Language-Action Model Bridging Understanding and Generation to Actions"
+  },
+  {
+    "id": "2603.18784v1",
+    "date": "2026-03-23",
+    "title": "ViTac-Tracing: Visual-Tactile Imitation Learning of Deformable Object Tracing"
+  },
+  {
+    "id": "2603.19170v1",
+    "date": "2026-03-23",
+    "title": "ADMM-Based Distributed MPC with Control Barrier Functions for Safe Multi-Robot Quadrupedal Locomotion"
+  },
+  {
+    "id": "2603.19233v1",
+    "date": "2026-03-23",
+    "title": "Not All Features Are Created Equal: A Mechanistic Study of Vision-Language-Action Models"
+  },
+  {
+    "id": "2603.19370v1",
+    "date": "2026-03-23",
+    "title": "VAMPO: Policy Optimization for Improving Visual Dynamics in Video Action Models"
+  },
+  {
+    "id": "2603.19418v1",
+    "date": "2026-03-23",
+    "title": "Speculative Policy Orchestration: A Latency-Resilient Framework for Cloud-Robotic Manipulation"
+  },
+  {
+    "id": "2603.19602v1",
+    "date": "2026-03-23",
+    "title": "CeRLP: A Cross-embodiment Robot Local Planning Framework for Visual Navigation"
+  },
+  {
+    "id": "2603.19632v1",
+    "date": "2026-03-23",
+    "title": "ContractionPPO: Certified Reinforcement Learning via Differentiable Contraction Layers"
+  },
+  {
+    "id": "2603.19709v1",
+    "date": "2026-03-23",
+    "title": "Morphology-Consistent Humanoid Interaction through Robot-Centric Video Synthesis"
+  },
+  {
+    "id": "2603.20129v1",
+    "date": "2026-03-23",
+    "title": "KUKAloha: A General, Low-Cost, and Shared-Control based Teleoperation Framework for Construction Robot Arm"
+  },
+  {
+    "id": "2603.20147v1",
+    "date": "2026-03-23",
+    "title": "AGILE: A Comprehensive Workflow for Humanoid Loco-Manipulation Learning"
+  },
+  {
+    "id": "2506.09985",
+    "date": "2026-03-24",
+    "title": "V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning"
+  },
+  {
+    "id": "2603.20668",
+    "date": "2026-03-24",
+    "title": "ROI-Driven Foveated Attention for Unified Egocentric Representations in Vision-Language-Action Systems"
+  },
+  {
+    "id": "2603.20999",
+    "date": "2026-03-24",
+    "title": "OrbitStream: Training-Free Adaptive 360-degree Video Streaming via Semantic Potential Fields"
+  },
+  {
+    "id": "2603.21051",
+    "date": "2026-03-24",
+    "title": "Cortical Policy: A Dual-Stream View Transformer for Robotic Manipulation"
+  },
+  {
+    "id": "2603.21143",
+    "date": "2026-03-24",
+    "title": "Affordance-Guided Enveloping Grasp Demonstration Toward Non-destructive Disassembly of Pinch-Infeasible Mating Parts"
+  },
+  {
+    "id": "2603.21195",
+    "date": "2026-03-24",
+    "title": "GAPG: Geometry Aware Push-Grasping Synergy for Goal-Oriented Manipulation in Clutter"
+  },
+  {
+    "id": "2603.21341",
+    "date": "2026-03-24",
+    "title": "RoboAlign: Learning Test-Time Reasoning for Language-Action Alignment in Vision-Language-Action Models"
+  },
+  {
+    "id": "2603.21410",
+    "date": "2026-03-24",
+    "title": "Bayesian Active Object Recognition and 6D Pose Estimation from Multimodal Contact Sensing"
+  },
+  {
+    "id": "2603.21421",
+    "date": "2026-03-24",
+    "title": "HyReach: Vision-Guided Hybrid Manipulator Reaching in Unseen Cluttered Environments"
+  },
+  {
+    "id": "2603.21679",
+    "date": "2026-03-24",
+    "title": "BiPreManip: Learning Affordance-Based Bimanual Preparatory Manipulation through Anticipatory Collaboration"
+  },
+  {
+    "id": "2603.21723",
+    "date": "2026-03-24",
+    "title": "Can a Robot Walk the Robotic Dog: Triple-Zero Collaborative Navigation for Heterogeneous Multi-Agent Systems"
+  },
+  {
+    "id": "2603.22201v1",
+    "date": "2026-03-25",
+    "title": "Make Tracking Easy: Neural Motion Retargeting for Humanoid Whole-body Control"
+  },
+  {
+    "id": "2603.22264v1",
+    "date": "2026-03-25",
+    "title": "UniDex: A Robot Foundation Suite for Universal Dexterous Hand Control from Egocentric Human Videos"
+  },
+  {
+    "id": "2603.22859v1",
+    "date": "2026-03-25",
+    "title": "DecompGrind: A Decomposition Framework for Robotic Grinding via Cutting-Surface Planning and Contact-Force Adaptation"
+  },
+  {
+    "id": "2603.22876v1",
+    "date": "2026-03-25",
+    "title": "Grounding Sim-to-Real Generalization in Dexterous Manipulation: An Empirical Study with Vision-Language-Action Models"
+  },
+  {
+    "id": "2603.22899v1",
+    "date": "2026-03-25",
+    "title": "Agile-VLA: Few-Shot Industrial Pose Rectification via Implicit Affordance Anchoring"
+  },
+  {
+    "id": "2603.22991v1",
+    "date": "2026-03-25",
+    "title": "VLA-IAP: Training-Free Visual Token Pruning via Interaction Alignment for Vision-Language-Action Models"
+  },
+  {
+    "id": "2603.23202v1",
+    "date": "2026-03-25",
+    "title": "Gaze-Regularized Vision-Language-Action Models for Robotic Manipulation"
+  },
+  {
+    "id": "2603.23227v1",
+    "date": "2026-03-25",
+    "title": "Efficient Hybrid SE(3)-Equivariant Visuomotor Flow Policy via Spherical Harmonics for Robot Manipulation"
+  },
+  {
+    "id": "2603.23376v1",
+    "date": "2026-03-25",
+    "title": "ABot-PhysWorld: Interactive World Foundation Model for Robotic Manipulation with Physics Alignment"
+  },
+  {
+    "id": "2603.23481v1",
+    "date": "2026-03-25",
+    "title": "VTAM: Video-Tactile-Action Models for Complex Physical Interaction Beyond VLAs"
+  },
+  {
+    "id": "2603.23679v1",
+    "date": "2026-03-26",
+    "title": "Learning What Can Be Picked: Active Reachability Estimation for Efficient Robotic Fruit Harvesting"
+  },
+  {
+    "id": "2603.23800v1",
+    "date": "2026-03-26",
+    "title": "Object Search in Partially-Known Environments via LLM-informed Model-based Planning and Prompt Selection"
+  },
+  {
+    "id": "2603.23950v1",
+    "date": "2026-03-26",
+    "title": "Event-Driven Proactive Assistive Manipulation with Grounded Vision-Language Planning"
+  },
+  {
+    "id": "2603.23983v1",
+    "date": "2026-03-26",
+    "title": "SafeFlow: Real-Time Text-Driven Humanoid Whole-Body Control via Physics-Guided Rectified Flow and Selective Safety Gating"
+  },
+  {
+    "id": "2603.23995v1",
+    "date": "2026-03-26",
+    "title": "MIRROR: Visual Motion Imitation via Real-time Retargeting and Teleoperation with Parallel Differential Inverse Kinematics"
+  },
+  {
+    "id": "2603.24021v1",
+    "date": "2026-03-26",
+    "title": "QuadFM: Foundational Text-Driven Quadruped Motion Dataset for Generation and Control"
+  },
+  {
+    "id": "2603.24047v1",
+    "date": "2026-03-26",
+    "title": "PCHC: Enabling Preference Conditioned Humanoid Control via Multi-Objective Reinforcement Learning"
+  },
+  {
+    "id": "2603.24083v1",
+    "date": "2026-03-26",
+    "title": "Knowledge-Guided Manipulation Using Multi-Task Reinforcement Learning"
+  },
+  {
+    "id": "2603.24133v1",
+    "date": "2026-03-26",
+    "title": "Accelerated Spline-Based Time-Optimal Motion Planning with Continuous Safety Guarantees for Non-Differentially Flat Systems"
+  },
+  {
+    "id": "2603.24318v1",
+    "date": "2026-03-26",
+    "title": "Toward Generalist Neural Motion Planners for Robotic Manipulators: Challenges and Opportunities"
+  },
+  {
+    "id": "2603.24357v1",
+    "date": "2026-03-26",
+    "title": "A Sensorless, Inherently Compliant Anthropomorphic Musculoskeletal Hand Driven by Electrohydraulic Actuators"
+  },
+  {
+    "id": "2603.24393v1",
+    "date": "2026-03-26",
+    "title": "3D-Mix for VLA: A Plug-and-Play Module for Integrating VGGT-based 3D Information into Vision-Language-Action Models"
+  },
+  {
+    "id": "2603.24576v1",
+    "date": "2026-03-26",
+    "title": "Chameleon: Episodic Memory for Long-Horizon Robotic Manipulation"
+  },
+  {
+    "id": "2603.24584v1",
+    "date": "2026-03-26",
+    "title": "TAG: Target-Agnostic Guidance for Stable Object-Centric Inference in Vision-Language-Action Models"
+  },
+  {
+    "id": "2603.25038v1",
+    "date": "2026-03-28",
+    "title": "$π$, But Make It Fly: Physics-Guided Transfer of VLA Models to Aerial Manipulation"
+  },
+  {
+    "id": "2603.25259v1",
+    "date": "2026-03-28",
+    "title": "A Minimum-Energy Control Approach for Redundant Mobile Manipulators in Physical Human-Robot Interaction Applications"
+  },
+  {
+    "id": "2603.25298v1",
+    "date": "2026-03-28",
+    "title": "Connectivity-Aware Representations for Constrained Motion Planning via Multi-Scale Contrastive Learning"
+  },
+  {
+    "id": "2603.25353v1",
+    "date": "2026-03-28",
+    "title": "SafeGuard ASF: SR Agentic Humanoid Robot System for Autonomous Industrial Safety"
+  },
+  {
+    "id": "2603.25382v1",
+    "date": "2026-03-28",
+    "title": "IntentReact: Guiding Reactive Object-Centric Navigation via Topological Intent"
+  },
+  {
+    "id": "2603.25395v1",
+    "date": "2026-03-28",
+    "title": "UMBRELLA: Uncertainty-aware Multi-robot Reactive Coordination under Dynamic Temporal Logic Tasks"
+  },
+  {
+    "id": "2603.25399v1",
+    "date": "2026-03-28",
+    "title": "LaMP: Learning Vision-Language-Action Policies with 3D Scene Flow as Latent Motion Prior"
+  },
+  {
+    "id": "2603.25406v1",
+    "date": "2026-03-28",
+    "title": "MMaDA-VLA: Large Diffusion Vision-Language-Action Model with Unified Multi-Modal Instruction and Generation"
+  },
+  {
+    "id": "2603.25418v1",
+    "date": "2026-03-28",
+    "title": "Visualizing Impedance Control in Augmented Reality for Teleoperation: Design and User Evaluation"
+  },
+  {
+    "id": "2603.25464v1",
+    "date": "2026-03-28",
+    "title": "Maximum Entropy Behavior Exploration for Sim2Real Zero-Shot Reinforcement Learning"
+  },
+  {
+    "id": "2603.25481v1",
+    "date": "2026-03-28",
+    "title": "LILAC: Language-Conditioned Object-Centric Optical Flow for Open-Loop Trajectory Generation"
+  },
+  {
+    "id": "2603.25539v1",
+    "date": "2026-03-28",
+    "title": "PAWS: Perception of Articulation in the Wild at Scale from Egocentric Videos"
+  },
+  {
+    "id": "2603.25544v1",
+    "date": "2026-03-28",
+    "title": "Towards Embodied AI with MuscleMimic: Unlocking full-body musculoskeletal motor learning at scale"
+  },
+  {
+    "id": "2603.25685v1",
+    "date": "2026-03-28",
+    "title": "Persistent Robot World Models: Stabilizing Multi-Step Rollouts via Reinforcement Learning"
+  },
+  {
+    "id": "2603.25725v1",
+    "date": "2026-03-28",
+    "title": "SoftMimicGen: A Data Generation System for Scalable Robot Learning in Deformable Object Manipulation"
+  },
+  {
+    "id": "2603.30042v1",
+    "date": "2026-04-02",
+    "title": "HapCompass: A Rotational Haptic Device for Contact-Rich Robotic Teleoperation"
+  },
+  {
+    "id": "2604.00202v1",
+    "date": "2026-04-02",
+    "title": "DreamControl-v2: Simpler and Scalable Autonomous Humanoid Skills via Trainable Guided Diffusion Priors"
+  },
+  {
+    "id": "2604.00416v1",
+    "date": "2026-04-02",
+    "title": "Learning Humanoid Navigation from Human Data"
+  },
+  {
+    "id": "2604.01001v1",
+    "date": "2026-04-02",
+    "title": "EgoSim: Egocentric World Simulator for Embodied Interaction Generation"
+  },
+  {
+    "id": "2604.01064v1",
+    "date": "2026-04-02",
+    "title": "BAT: Balancing Agility and Stability via Online Policy Switching for Long-Horizon Whole-Body Humanoid Control"
+  },
+  {
+    "id": "2604.01158v1",
+    "date": "2026-04-02",
+    "title": "SMASH: Mastering Scalable Whole-Body Skills for Humanoid Ping-Pong with Egocentric Vision"
+  },
+  {
+    "id": "2604.01224v1",
+    "date": "2026-04-02",
+    "title": "Functional Force-Aware Retargeting from Virtual Human Demos to Soft Robot Policies"
+  },
+  {
+    "id": "2604.01414v1",
+    "date": "2026-04-03",
+    "title": "Learning When to See and When to Feel: Adaptive Vision-Torque Fusion for Contact-Aware Manipulation"
+  },
+  {
+    "id": "2604.01517v1",
+    "date": "2026-04-03",
+    "title": "MorphoGuard: A Morphology-Based Whole-Body Interactive Motion Controller"
+  },
+  {
+    "id": "2604.01659v1",
+    "date": "2026-04-03",
+    "title": "AURA: Multimodal Shared Autonomy for Real-World Urban Navigation"
+  },
+  {
+    "id": "2604.01985v1",
+    "date": "2026-04-03",
+    "title": "World Action Verifier: Self-Improving World Models via Forward-Inverse Asymmetry"
+  },
+  {
+    "id": "2603.17240",
+    "date": "2026-04-06",
+    "title": "GigaWorld-Policy: An Efficient Action-Centered World--Action Model"
+  },
+  {
+    "id": "2604.02643v1",
+    "date": "2026-04-06",
+    "title": "Differentiable SpaTiaL: Symbolic Learning and Reasoning with Geometric Temporal Logic for Manipulation Tasks"
+  },
+  {
+    "id": "2604.02812v1",
+    "date": "2026-04-06",
+    "title": "Learning Structured Robot Policies from Vision-Language Models via Synthetic Neuro-Symbolic Supervision"
+  },
+  {
+    "id": "2604.02820v1",
+    "date": "2026-04-06",
+    "title": "MFE: A Multimodal Hand Exoskeleton with Interactive Force, Pressure and Thermo-haptic Feedback"
+  },
+  {
+    "id": "2604.02965v1",
+    "date": "2026-04-06",
+    "title": "Open-Loop Planning, Closed-Loop Verification: Speculative Verification for VLA"
+  },
+  {
+    "id": "2604.03037v1",
+    "date": "2026-04-06",
+    "title": "ARM: Advantage Reward Modeling for Long-Horizon Manipulation"
+  },
+  {
+    "id": "2604.03065v1",
+    "date": "2026-04-06",
+    "title": "Joint Prediction of Human Motions and Actions in Human-Robot Collaboration"
+  },
+  {
+    "id": "2604.03181v1",
+    "date": "2026-04-06",
+    "title": "Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model"
+  },
+  {
+    "id": "2604.03191v1",
+    "date": "2026-04-06",
+    "title": "The Compression Gap: Why Discrete Tokenization Limits Vision-Language-Action Model Scaling"
+  },
+  {
+    "id": "2604.04664v1",
+    "date": "2026-04-08",
+    "title": "ROSClaw: A Hierarchical Semantic-Physical Framework for Heterogeneous Multi-Agent Collaboration"
+  },
+  {
+    "id": "2604.04834v1",
+    "date": "2026-04-08",
+    "title": "E-VLA: Event-Augmented Vision-Language-Action Model for Dark and Blurred Scenes"
+  },
+  {
+    "id": "2604.05430v1",
+    "date": "2026-04-08",
+    "title": "Synergizing Efficiency and Reliability for Continuous Mobile Manipulation"
+  },
+  {
+    "id": "2604.05544v1",
+    "date": "2026-04-08",
+    "title": "Referring-Aware Visuomotor Policy Learning for Closed-Loop Manipulation"
+  },
+  {
+    "id": "2604.05656v1",
+    "date": "2026-04-08",
+    "title": "SnapFlow: One-Step Action Generation for Flow-Matching VLAs via Progressive Self-Distillation"
+  },
+  {
+    "id": "2604.05672v1",
+    "date": "2026-04-08",
+    "title": "A1: A Fully Transparent Open-Source, Adaptive and Efficient Truncated Vision-Language-Action Model"
+  },
+  {
+    "id": "2604.05697v1",
+    "date": "2026-04-08",
+    "title": "GraspSense: Physically Grounded Grasp and Grip Planning for a Dexterous Robotic Hand via Language-Guided Perception and Force Maps"
+  },
+  {
+    "id": "2604.05831v1",
+    "date": "2026-04-08",
+    "title": "BiCoord: A Bimanual Manipulation Benchmark towards Long-Horizon Spatial-Temporal Coordination"
+  },
+  {
+    "id": "2604.06067v1",
+    "date": "2026-04-08",
+    "title": "HiPolicy: Hierarchical Multi-Frequency Action Chunking for Policy Learning"
+  },
+  {
+    "id": "2604.06168v1",
+    "date": "2026-04-08",
+    "title": "Action Images: End-to-End Policy Learning via Multiview Video Generation"
+  },
+  {
+    "id": "2604.07335v1",
+    "date": "2026-04-10",
+    "title": "TAMEn: Tactile-Aware Manipulation Engine for Closed-Loop Data Collection in Contact-Rich Tasks"
+  },
+  {
+    "id": "2604.07430",
+    "date": "2026-04-10",
+    "title": "HY-Embodied-0.5: Embodied Foundation Models for Real-World Agents"
+  },
+  {
+    "id": "2604.07644v1",
+    "date": "2026-04-10",
+    "title": "Safe Large-Scale Robust Nonlinear MPC in Milliseconds via Reachability-Constrained System Level Synthesis on the GPU"
+  },
+  {
+    "id": "2604.07993v1",
+    "date": "2026-04-10",
+    "title": "HEX: Humanoid-Aligned Experts for Cross-Embodiment Whole-Body Manipulation"
+  },
+  {
+    "id": "2604.08168v1",
+    "date": "2026-04-10",
+    "title": "ViVa: A Video-Generative Value Model for Robot Reinforcement Learning"
+  },
+  {
+    "id": "2604.08410v1",
+    "date": "2026-04-10",
+    "title": "BLaDA: Bridging Language to Functional Dexterous Actions within 3DGS Fields"
+  },
+  {
+    "id": "2604.08508v1",
+    "date": "2026-04-10",
+    "title": "Sumo: Dynamic and Generalizable Whole-Body Loco-Manipulation"
+  },
+  {
+    "id": "2604.08528v1",
+    "date": "2026-04-10",
+    "title": "A-SLIP: Acoustic Sensing for Continuous In-hand Slip Estimation"
+  },
+  {
+    "id": "2604.08534v1",
+    "date": "2026-04-10",
+    "title": "ActiveGlasses: Learning Manipulation with Active Vision from Ego-centric Human Demonstration"
+  },
+  {
+    "id": "2604.08544v1",
+    "date": "2026-04-10",
+    "title": "SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds"
+  },
+  {
+    "id": "2604.08726v1",
+    "date": "2026-04-13",
+    "title": "Task-Aware Bimanual Affordance Prediction via VLM-Guided Semantic-Geometric Reasoning"
+  },
+  {
+    "id": "2604.08780v1",
+    "date": "2026-04-13",
+    "title": "Toward Hardware-Agnostic Quadrupedal World Models via Morphology Conditioning"
+  },
+  {
+    "id": "2604.08945v1",
+    "date": "2026-04-13",
+    "title": "TouchAnything: Diffusion-Guided 3D Reconstruction from Sparse Robot Touches"
+  },
+  {
+    "id": "2604.09330v1",
+    "date": "2026-04-13",
+    "title": "VAG: Dual-Stream Video-Action Generation for Embodied Data Synthesis"
+  },
+  {
+    "id": "2604.09462v1",
+    "date": "2026-04-13",
+    "title": "Adaptor: Advancing Assistive Teleoperation with Few-Shot Learning and Cross-Operator Generalization"
+  },
+  {
+    "id": "2604.10579v1",
+    "date": "2026-04-14",
+    "title": "AffordGen: Generating Diverse Demonstrations for Generalizable Object Manipulation with Afford Correspondence"
+  },
+  {
+    "id": "2604.10598v1",
+    "date": "2026-04-14",
+    "title": "AWARE: Adaptive Whole-body Active Rotating Control for Enhanced LiDAR-Inertial Odometry under Human-in-the-Loop Interaction"
+  },
+  {
+    "id": "2604.10647v1",
+    "date": "2026-04-14",
+    "title": "OmniUMI: Towards Physically Grounded Robot Learning via Human-Aligned Multimodal Interaction"
+  },
+  {
+    "id": "2604.10677v1",
+    "date": "2026-04-14",
+    "title": "LIDEA: Human-to-Robot Imitation Learning via Implicit Feature Distillation and Explicit Geometry Alignment"
+  },
+  {
+    "id": "2604.10809v1",
+    "date": "2026-04-14",
+    "title": "WARPED: Wrist-Aligned Rendering for Robot Policy Learning from Egocentric Human Demonstrations"
+  },
+  {
+    "id": "2604.11135v1",
+    "date": "2026-04-14",
+    "title": "AIM: Intent-Aware Unified world action Modeling with Spatial Value Maps"
+  },
+  {
+    "id": "2604.11138v1",
+    "date": "2026-04-14",
+    "title": "ViserDex: Visual Sim-to-Real for Robust Dexterous In-hand Reorientation"
+  },
+  {
+    "id": "2604.11251v1",
+    "date": "2026-04-14",
+    "title": "CLAW: Composable Language-Annotated Whole-body Motion Generation"
+  },
+  {
+    "id": "2604.11302v1",
+    "date": "2026-04-14",
+    "title": "3D-Anchored Lookahead Planning for Persistent Robotic Scene Memory via World-Model-Based MCTS"
+  },
+  {
+    "id": "2604.11320v1",
+    "date": "2026-04-14",
+    "title": "CLASP: Closed-loop Asynchronous Spatial Perception for Open-vocabulary Desktop Object Grasping"
+  },
+  {
+    "id": "2604.11351v1",
+    "date": "2026-04-14",
+    "title": "WM-DAgger: Enabling Efficient Data Aggregation for Imitation Learning with World Models"
+  },
+  {
+    "id": "2604.11572v1",
+    "date": "2026-04-14",
+    "title": "DA-PTQ: Drift-Aware Post-Training Quantization for Efficient Vision-Language-Action Models"
+  },
+  {
+    "id": "2601.12993",
+    "date": "2026-04-16",
+    "title": "Being-H0.5: Scaling Human-Centric Robot Learning for Cross-Embodiment Generalization"
+  },
+  {
+    "id": "2604.12626",
+    "date": "2026-04-16",
+    "title": "Habitat-GS: A High-Fidelity Navigation Simulator with Dynamic Gaussian Splatting"
+  },
+  {
+    "id": "2604.12879",
+    "date": "2026-04-16",
+    "title": "FastGrasp: Learning-based Whole-body Control method for Fast Dexterous Grasping with Mobile Manipulators"
+  },
+  {
+    "id": "2604.12908",
+    "date": "2026-04-16",
+    "title": "Robotic Manipulation is Vision-to-Geometry Mapping ($f(v) \\rightarrow G$): Vision-Geometry Backbones over Language and Video Models"
+  },
+  {
+    "id": "2604.12909",
+    "date": "2026-04-16",
+    "title": "Tree Learning: A Multi-Skill Continual Learning Framework for Humanoid Robots"
+  },
+  {
+    "id": "2604.13015",
+    "date": "2026-04-16",
+    "title": "Learning Versatile Humanoid Manipulation with Touch Dreaming"
+  },
+  {
+    "id": "2604.13323",
+    "date": "2026-04-16",
+    "title": "Vectorizing Projection in Manifold-Constrained Motion Planning for Real-Time Whole-Body Control"
+  },
+  {
+    "id": "2604.13633",
+    "date": "2026-04-16",
+    "title": "ESCAPE: Episodic Spatial Memory and Adaptive Execution Policy for Long-Horizon Mobile Manipulation"
+  },
+  {
+    "id": "2604.13942",
+    "date": "2026-04-16",
+    "title": "Goal2Skill: Long-Horizon Manipulation with Adaptive Planning and Reflection"
+  },
+  {
+    "id": "2604.14089",
+    "date": "2026-04-16",
+    "title": "UMI-3D: Extending Universal Manipulation Interface from Vision-Limited to 3D Spatial Perception"
+  },
+  {
+    "id": "2604.14125",
+    "date": "2026-04-16",
+    "title": "HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System"
+  }
+]

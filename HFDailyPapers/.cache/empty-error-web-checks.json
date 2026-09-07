@@ -1,0 +1,20 @@
+[
+  {
+    "requested_date": "2026-09-05",
+    "requested_url": "https://huggingface.co/papers/date/2026-09-05",
+    "final_url": "https://huggingface.co/papers/date/2026-09-04",
+    "paper_count": 31
+  },
+  {
+    "requested_date": "2026-09-06",
+    "requested_url": "https://huggingface.co/papers/date/2026-09-06",
+    "final_url": "https://huggingface.co/papers/date/2026-09-04",
+    "paper_count": 31
+  },
+  {
+    "requested_date": "2026-09-07",
+    "requested_url": "https://huggingface.co/papers/date/2026-09-07",
+    "final_url": "https://huggingface.co/papers/date/2026-09-04",
+    "paper_count": 31
+  }
+]

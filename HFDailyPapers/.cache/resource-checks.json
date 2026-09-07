@@ -1,0 +1,384 @@
+{
+  "checked_at": "2026-09-07T01:16:24.526258+00:00",
+  "papers": {
+    "2608.31046": [
+      {
+        "url": "https://github.com/DripNowhy/On-Policy-Self-Adaptation",
+        "final_url": "https://github.com/DripNowhy/On-Policy-Self-Adaptation",
+        "http_status": 200,
+        "title": "GitHub - DripNowhy/On-Policy-Self-Adaptation: Implementation of &quot;Does On-Policy Distillation Really Distill? From Noisy Teacher to Self-Improvement&quot; · GitHub",
+        "verification": "page reachable; downloads and execution not verified"
+      },
+      {
+        "url": "https://huggingface.co/collections/Tuwhy/on-policy-self-adaptation",
+        "final_url": "https://huggingface.co/collections/Tuwhy/on-policy-self-adaptation",
+        "http_status": 200,
+        "title": "On-Policy Self-Adaptation - a Tuwhy Collection",
+        "verification": "page reachable; downloads and execution not verified"
+      }
+    ],
+    "2608.30821": [
+      {
+        "url": "https://lucida-r2s.github.io/",
+        "final_url": "https://lucida-r2s.github.io/",
+        "http_status": 200,
+        "title": "Lucida | Composable real-to-sim scene modeling",
+        "verification": "page reachable; downloads and execution not verified"
+      }
+    ],
+    "2608.31106": [
+      {
+        "url": "https://github.com/AMAP-ML/DreamX-Creator",
+        "final_url": "https://github.com/AMAP-ML/DreamX-Creator",
+        "http_status": 200,
+        "title": "GitHub - AMAP-ML/DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Resolution · GitHub",
+        "verification": "page reachable; downloads and execution not verified"
+      }
+    ],
+    "2608.29335": [],
+    "2608.30320": [],
+    "2608.31036": [
+      {
+        "url": "https://github.com/Joluck/NoRA",
+        "final_url": "https://github.com/Joluck/NoRA",
+        "http_status": 200,
+        "title": "GitHub - Joluck/NoRA · GitHub",
+        "verification": "page reachable; downloads and execution not verified"
+      }
+    ],
+    "2608.31119": [
+      {
+        "url": "https://github.com/ZJU-REAL/PaperGym",
+        "final_url": "https://github.com/ZJU-REAL/PaperGym",
+        "http_status": 200,
+        "title": "GitHub - ZJU-REAL/PaperGym: Rubric-Centered Framework for Research-Plan Generation · GitHub",
+        "verification": "page reachable; downloads and execution not verified"
+      },
+      {
+        "url": "https://zju-real.github.io/PaperGym",
+        "final_url": "https://zju-real.github.io/PaperGym/",
+        "http_status": 200,
+        "title": "PaperGym: Rubric-Centered Evolution for Research-Plan Generation",
+        "verification": "page reachable; downloads and execution not verified"
+      }
+    ],
+    "2608.28600": [
+      {
+        "url": "https://github.com/holi-lab/SHAPE-of-CoT",
+        "final_url": "https://github.com/holi-lab/SHAPE-of-CoT",
+        "http_status": 200,
+        "title": "GitHub - holi-lab/SHAPE-of-CoT · GitHub",
+        "verification": "page reachable; downloads and execution not verified"
+      }
+    ],
+    "2608.30935": [
+      {
+        "url": "https://github.com/lightorigins/LightNav-0",
+        "final_url": "https://github.com/lightorigins/LightNav-0",
+        "http_status": 200,
+        "title": "GitHub - lightorigins/LightNav-0 · GitHub",
+        "verification": "page reachable; downloads and execution not verified"
+      },
+      {
+        "url": "https://huggingface.co/LightOriginsHQ/LightNav-0",
+        "final_url": "https://huggingface.co/LightOriginsHQ/LightNav-0",
+        "http_status": 200,
+        "title": "LightOriginsHQ/LightNav-0 · Hugging Face",
+        "verification": "page reachable; downloads and execution not verified"
+      }
+    ],
+    "2608.30968": [
+      {
+        "url": "https://github.com/CogEvol/CogEvol-4B",
+        "final_url": "https://github.com/CogEvol/CogEvol-4B",
+        "http_status": 200,
+        "title": "GitHub - CogEvol/CogEvol-4B · GitHub",
+        "verification": "page reachable; downloads and execution not verified"
+      }
+    ],
+    "2609.01591": [
+      {
+        "url": "https://github.com/microsoft/StudentSim",
+        "final_url": "https://github.com/microsoft/StudentSim",
+        "http_status": 200,
+        "title": "GitHub - microsoft/StudentSim: StudentSim is a research framework for training and evaluating AI models that simulate how students respond to learning material. The research goal is to give AI tutoring researchers a realistic stand-in for a student against which to test their tutoring methods quickly, before involving human students per experiment. · GitHub",
+        "verification": "page reachable; downloads and execution not verified"
+      }
+    ],
+    "2609.00111": [
+      {
+        "url": "https://huggingface.co/Qwen/Qwen-Drive-1.0-4B",
+        "final_url": "https://huggingface.co/Qwen/Qwen-Drive-1.0-4B",
+        "http_status": 200,
+        "title": "Qwen/Qwen-Drive-1.0-4B · Hugging Face",
+        "verification": "page reachable; downloads and execution not verified"
+      },
+      {
+        "url": "https://github.com/QwenLM/Qwen-Drive-1.0",
+        "final_url": "https://github.com/QwenLM/Qwen-Drive-1.0",
+        "http_status": 200,
+        "title": "GitHub - QwenLM/Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving · GitHub",
+        "verification": "page reachable; downloads and execution not verified"
+      }
+    ],
+    "2609.01343": [],
+    "2609.00028": [
+      {
+        "url": "https://github.com/inclusionAI/UI-Venus",
+        "final_url": "https://github.com/inclusionAI/UI-Venus",
+        "http_status": 200,
+        "title": "GitHub - inclusionAI/UI-Venus: UI-Venus is a general-purpose foundation GUI agent for mobile apps, web platforms, and desktop operating systems using only screenshots as input. · GitHub",
+        "verification": "page reachable; downloads and execution not verified"
+      },
+      {
+        "url": "https://huggingface.co/collections/inclusionAI/ui-venus",
+        "final_url": "https://huggingface.co/collections/inclusionAI/ui-venus",
+        "http_status": 200,
+        "title": "UI-Venus - a inclusionAI Collection",
+        "verification": "page reachable; downloads and execution not verified"
+      },
+      {
+        "url": "https://ui-venus.github.io/UI-Venus-2",
+        "final_url": "https://ui-venus.github.io/UI-Venus-2/",
+        "http_status": 200,
+        "title": "UI-Venus-2 — A General-Purpose Foundation GUI Agent",
+        "verification": "page reachable; downloads and execution not verified"
+      }
+    ],
+    "2609.00188": [
+      {
+        "url": "https://github.com/ZimaBlue-WAM/ZimaBlue",
+        "final_url": "https://github.com/ZimaBlue-WAM/ZimaBlue",
+        "http_status": 200,
+        "title": "GitHub - ZimaBlue-WAM/ZimaBlue · GitHub",
+        "verification": "page reachable; downloads and execution not verified"
+      },
+      {
+        "url": "https://zimablue-wam.github.io/",
+        "final_url": "https://zimablue-wam.github.io/",
+        "http_status": 200,
+        "title": "ZimaBlue — Generalizable World Action Models",
+        "verification": "page reachable; downloads and execution not verified"
+      }
+    ],
+    "2609.01560": [
+      {
+        "url": "https://github.com/Danzer1xxxxChan/H3-World",
+        "final_url": "https://github.com/Danzer1xxxxChan/H3-World",
+        "http_status": 200,
+        "title": "GitHub - Danzer1xxxxChan/H3-World · GitHub",
+        "verification": "page reachable; downloads and execution not verified"
+      }
+    ],
+    "2608.30468": [
+      {
+        "url": "https://hi-q-project.github.io/",
+        "final_url": "https://hi-q-project.github.io/",
+        "http_status": 200,
+        "title": "Hi-Q",
+        "verification": "page reachable; downloads and execution not verified"
+      }
+    ],
+    "2609.01572": [],
+    "2609.01404": [
+      {
+        "url": "https://github.com/naver-ai/DroneCATS",
+        "final_url": "https://github.com/naver-ai/DroneCATS",
+        "http_status": 200,
+        "title": "GitHub - naver-ai/DroneCATS · GitHub",
+        "verification": "page reachable; downloads and execution not verified"
+      }
+    ],
+    "2609.01607": [],
+    "2609.02749": [
+      {
+        "url": "https://github.com/VectorSpaceLab/AREX-Skill",
+        "final_url": "https://github.com/VectorSpaceLab/AREX-Skill",
+        "http_status": 200,
+        "title": "GitHub - VectorSpaceLab/AREX-Skill: A Skill Library for Automated Machine Learning · GitHub",
+        "verification": "page reachable; downloads and execution not verified"
+      }
+    ],
+    "2609.01437": [
+      {
+        "url": "https://self-developing-agents.github.io/",
+        "final_url": "https://self-developing-agents.github.io/",
+        "http_status": 200,
+        "title": "Self-Developing Agents — From Half-Loop to Closed-Loop RSI",
+        "verification": "page reachable; downloads and execution not verified"
+      }
+    ],
+    "2608.31111": [
+      {
+        "url": "https://self-developing-agents.github.io/",
+        "final_url": "https://self-developing-agents.github.io/",
+        "http_status": 200,
+        "title": "Self-Developing Agents — From Half-Loop to Closed-Loop RSI",
+        "verification": "page reachable; downloads and execution not verified"
+      }
+    ],
+    "2609.02886": [
+      {
+        "url": "https://github.com/Junchao-cs/SolarWM",
+        "final_url": "https://github.com/Junchao-cs/SolarWM",
+        "http_status": 200,
+        "title": "GitHub - Junchao-cs/SolarWM: Open data and scalable training for long-horizon video world models. · GitHub",
+        "verification": "page reachable; downloads and execution not verified"
+      },
+      {
+        "url": "https://huggingface.co/datasets/junchaoh-cs/SolarWM-Data",
+        "final_url": "https://huggingface.co/datasets/junchaoh-cs/SolarWM-Data",
+        "http_status": 200,
+        "title": "junchaoh-cs/SolarWM-Data · Datasets at Hugging Face",
+        "verification": "page reachable; downloads and execution not verified"
+      },
+      {
+        "url": "https://github.com/Junchao-cs/SolarWM/tree/main",
+        "final_url": "https://github.com/Junchao-cs/SolarWM/tree/main",
+        "http_status": 200,
+        "title": "GitHub - Junchao-cs/SolarWM: Open data and scalable training for long-horizon video world models. · GitHub",
+        "verification": "page reachable; downloads and execution not verified"
+      }
+    ],
+    "2609.02783": [
+      {
+        "url": "https://github.com/inphotoo/earlyeval",
+        "final_url": "https://github.com/inphotoo/earlyeval",
+        "http_status": 200,
+        "title": "GitHub - inphotoo/earlyeval · GitHub",
+        "verification": "page reachable; downloads and execution not verified"
+      }
+    ],
+    "2609.00638": [],
+    "2609.02737": [],
+    "2608.31100": [
+      {
+        "url": "https://self-developing-agents.github.io/",
+        "final_url": "https://self-developing-agents.github.io/",
+        "http_status": 200,
+        "title": "Self-Developing Agents — From Half-Loop to Closed-Loop RSI",
+        "verification": "page reachable; downloads and execution not verified"
+      }
+    ],
+    "2609.01147": [
+      {
+        "url": "https://github.com/Pixel-Linguist/Pixel-Linguist-2",
+        "final_url": "https://github.com/Pixel-Linguist/Pixel-Linguist-II",
+        "http_status": 200,
+        "title": "GitHub - Pixel-Linguist/Pixel-Linguist-II · GitHub",
+        "verification": "page reachable; downloads and execution not verified"
+      },
+      {
+        "url": "https://github.com/Pixel-Linguist/Pixel-Linguist-II",
+        "final_url": "https://github.com/Pixel-Linguist/Pixel-Linguist-II",
+        "http_status": 200,
+        "title": "GitHub - Pixel-Linguist/Pixel-Linguist-II · GitHub",
+        "verification": "page reachable; downloads and execution not verified"
+      }
+    ],
+    "2609.00196": [
+      {
+        "url": "https://github.com/krafton-ai/WHALE",
+        "final_url": "https://github.com/krafton-ai/WHALE",
+        "http_status": 200,
+        "title": "GitHub - krafton-ai/WHALE: Official implementation of WHALE (Weight-Harness Alternating Learning) · GitHub",
+        "verification": "page reachable; downloads and execution not verified"
+      }
+    ],
+    "2609.04199": [
+      {
+        "url": "https://github.com/programasweights/compile-by-training",
+        "final_url": "https://github.com/programasweights/compile-by-training",
+        "http_status": 200,
+        "title": "GitHub - programasweights/compile-by-training: Compile natural-language function descriptions into reusable local PAW programs. · GitHub",
+        "verification": "page reachable; downloads and execution not verified"
+      }
+    ],
+    "2609.04148": [],
+    "2609.03796": [
+      {
+        "url": "https://github.com/inclusionAI/LLaDA-Image",
+        "final_url": "https://github.com/inclusionAI/LLaDA-Image",
+        "http_status": 200,
+        "title": "GitHub - inclusionAI/LLaDA-Image · GitHub",
+        "verification": "page reachable; downloads and execution not verified"
+      },
+      {
+        "url": "https://huggingface.co/collections/inclusionAI/llada-image",
+        "final_url": "https://huggingface.co/collections/inclusionAI/llada-image",
+        "http_status": 200,
+        "title": "LLaDA-Image - a inclusionAI Collection",
+        "verification": "page reachable; downloads and execution not verified"
+      }
+    ],
+    "2609.03430": [
+      {
+        "url": "https://github.com/SalesforceAIResearch/Random-Attention",
+        "final_url": "https://github.com/SalesforceAIResearch/Random-Attention",
+        "http_status": 200,
+        "title": "GitHub - SalesforceAIResearch/Random-Attention: Code for the paper &quot;Random Attention: Rethinking KV Cache Eviction for Efficient Reasoning&quot; https://arxiv.org/abs/2609.03430 · GitHub",
+        "verification": "page reachable; downloads and execution not verified"
+      }
+    ],
+    "2608.26730": [],
+    "2609.03199": [
+      {
+        "url": "https://github.com/Rice-RobotPI-Lab/RoboTok-Code",
+        "final_url": "https://github.com/Rice-RobotPI-Lab/RoboTok-Code",
+        "http_status": 200,
+        "title": "GitHub - Rice-RobotPI-Lab/RoboTok-Code · GitHub",
+        "verification": "page reachable; downloads and execution not verified"
+      },
+      {
+        "url": "https://rice-robotpi-lab.github.io/RoboTok/",
+        "final_url": "https://rice-robotpi-lab.github.io/RoboTok/",
+        "http_status": 200,
+        "title": "RoboTok: An Internet-Scale Data Engine for Human Demonstration Video Retrieval and Dexterous Manipulation Learning",
+        "verification": "page reachable; downloads and execution not verified"
+      }
+    ],
+    "2609.01507": [
+      {
+        "url": "https://github.com/HJSang/LatentPress",
+        "final_url": "https://github.com/HJSang/LatentPress",
+        "http_status": 200,
+        "title": "GitHub - HJSang/LatentPress: LatentPress: Context Compression Beyond Text and Vision (arXiv:2609.01507) · GitHub",
+        "verification": "page reachable; downloads and execution not verified"
+      }
+    ],
+    "2609.04172": [
+      {
+        "url": "https://github.com/Thinking-Space/One-Shot-OPD",
+        "final_url": "https://github.com/Thinking-Space/One-Shot-OPD",
+        "http_status": 200,
+        "title": "GitHub - Thinking-Space/One-Shot-OPD: Rethinking On-Policy Distillation of Large Language Models II: One Training Example · GitHub",
+        "verification": "page reachable; downloads and execution not verified"
+      }
+    ],
+    "2609.04098": [
+      {
+        "url": "https://huggingface.co/minima-ai/mnma_qwen3.8_27b_nvfp4",
+        "final_url": "https://huggingface.co/minima-ai/mnma_qwen3.8_27b_nvfp4",
+        "http_status": 200,
+        "title": "minima-ai/mnma_qwen3.8_27b_nvfp4 · Hugging Face",
+        "verification": "page reachable; downloads and execution not verified"
+      }
+    ],
+    "2609.04196": [
+      {
+        "url": "https://kangliao929.github.io/projects/puffin-world/",
+        "final_url": "https://kangliao929.github.io/projects/puffin-world/",
+        "http_status": 200,
+        "title": "Puffin-World · Scaling with Native 3D World States",
+        "verification": "page reachable; downloads and execution not verified"
+      },
+      {
+        "url": "https://kangliao929.github.io/projects/puffin-16m",
+        "final_url": "https://kangliao929.github.io/projects/puffin-16m/",
+        "http_status": 200,
+        "title": "Puffin-16M — Camera-Centric Multimodal Intelligence",
+        "verification": "page reachable; downloads and execution not verified"
+      }
+    ]
+  }
+}

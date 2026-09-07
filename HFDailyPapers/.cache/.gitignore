@@ -1,0 +1,6 @@
+# Full source copies stay local; structured snapshots and review data are backed up.
+*.html
+*.txt
+*.pdf
+*.sqlite*
+__pycache__/

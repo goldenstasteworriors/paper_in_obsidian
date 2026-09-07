@@ -1,0 +1,1989 @@
+{
+  "schema_version": 1,
+  "days": {
+    "2026-09-01": {
+      "status": "complete",
+      "report": "HFDailyPapers/2026-09-01-HF日报.md",
+      "source_ids": [
+        "2608.31046",
+        "2608.30821",
+        "2608.31106",
+        "2608.29335",
+        "2608.30320",
+        "2608.31036",
+        "2608.31119",
+        "2608.28600",
+        "2608.30935",
+        "2608.30968",
+        "2608.31075",
+        "2608.28833",
+        "2608.29310",
+        "2608.31076",
+        "2608.29910",
+        "2608.30428",
+        "2608.29464",
+        "2608.24293",
+        "2608.30241",
+        "2608.30396",
+        "2608.30135",
+        "2608.30530",
+        "2608.30147",
+        "2608.31022",
+        "2608.28695",
+        "2608.30209",
+        "2608.29098",
+        "2608.29613",
+        "2608.28958",
+        "2608.29974",
+        "2608.29847",
+        "2608.29387",
+        "2608.26671",
+        "2609.00519",
+        "2608.31113",
+        "2608.29681",
+        "2608.29137",
+        "2608.29252",
+        "2608.30795"
+      ],
+      "summarized_ids": [
+        "2608.31046",
+        "2608.30821",
+        "2608.31106",
+        "2608.29335",
+        "2608.30320",
+        "2608.31036",
+        "2608.31119",
+        "2608.28600",
+        "2608.30935",
+        "2608.30968",
+        "2608.31075",
+        "2608.28833",
+        "2608.29310",
+        "2608.31076",
+        "2608.29910",
+        "2608.30428",
+        "2608.29464",
+        "2608.24293",
+        "2608.30241",
+        "2608.30396",
+        "2608.30135",
+        "2608.30530",
+        "2608.30147",
+        "2608.31022",
+        "2608.28695",
+        "2608.30209",
+        "2608.29098",
+        "2608.29613",
+        "2608.28958",
+        "2608.29974",
+        "2608.29847",
+        "2608.29387",
+        "2608.26671",
+        "2609.00519",
+        "2608.31113",
+        "2608.29681",
+        "2608.29137",
+        "2608.29252",
+        "2608.30795"
+      ],
+      "pending_ids": [],
+      "fetched_at": "2026-09-07T01:03:43.702151+00:00",
+      "ranking_source": "https://huggingface.co/papers/date/2026-09-01",
+      "ranking_fetched_at": "2026-09-07T01:03:43.702151+00:00",
+      "top_ten_ids": [
+        "2608.31046",
+        "2608.30821",
+        "2608.31106",
+        "2608.29335",
+        "2608.30320",
+        "2608.31036",
+        "2608.31119",
+        "2608.28600",
+        "2608.30935",
+        "2608.30968"
+      ]
+    },
+    "2026-09-02": {
+      "status": "complete",
+      "report": "HFDailyPapers/2026-09-02-HF日报.md",
+      "source_ids": [
+        "2609.01591",
+        "2609.00111",
+        "2609.01343",
+        "2609.00028",
+        "2609.00188",
+        "2609.01560",
+        "2608.30468",
+        "2609.01572",
+        "2609.01404",
+        "2609.01607",
+        "2609.00768",
+        "2609.00092",
+        "2608.26623",
+        "2609.01481",
+        "2608.30730",
+        "2609.00551",
+        "2608.30478",
+        "2608.30457",
+        "2609.01532",
+        "2609.00621",
+        "2608.28612",
+        "2609.01836",
+        "2609.00374",
+        "2608.27509",
+        "2609.00137",
+        "2609.00646",
+        "2609.00968",
+        "2608.31082",
+        "2609.01453"
+      ],
+      "summarized_ids": [
+        "2609.01591",
+        "2609.00111",
+        "2609.01343",
+        "2609.00028",
+        "2609.00188",
+        "2609.01560",
+        "2608.30468",
+        "2609.01572",
+        "2609.01404",
+        "2609.01607",
+        "2609.00768",
+        "2609.00092",
+        "2608.26623",
+        "2609.01481",
+        "2608.30730",
+        "2609.00551",
+        "2608.30478",
+        "2608.30457",
+        "2609.01532",
+        "2609.00621",
+        "2608.28612",
+        "2609.01836",
+        "2609.00374",
+        "2608.27509",
+        "2609.00137",
+        "2609.00646",
+        "2609.00968",
+        "2608.31082",
+        "2609.01453"
+      ],
+      "pending_ids": [],
+      "fetched_at": "2026-09-07T01:03:46.913901+00:00",
+      "ranking_source": "https://huggingface.co/papers/date/2026-09-02",
+      "ranking_fetched_at": "2026-09-07T01:03:46.913901+00:00",
+      "top_ten_ids": [
+        "2609.01591",
+        "2609.00111",
+        "2609.01343",
+        "2609.00028",
+        "2609.00188",
+        "2609.01560",
+        "2608.30468",
+        "2609.01572",
+        "2609.01404",
+        "2609.01607"
+      ]
+    },
+    "2026-09-03": {
+      "status": "complete",
+      "report": "HFDailyPapers/2026-09-03-HF日报.md",
+      "source_ids": [
+        "2609.02749",
+        "2609.01437",
+        "2608.31111",
+        "2609.02886",
+        "2609.02783",
+        "2609.00638",
+        "2609.02737",
+        "2608.31100",
+        "2609.01147",
+        "2609.00196",
+        "2608.21450",
+        "2609.01740",
+        "2609.01657",
+        "2609.02817",
+        "2609.02812",
+        "2609.00591",
+        "2608.29846",
+        "2608.18972",
+        "2609.02849",
+        "2609.01925",
+        "2608.30949",
+        "2609.02272",
+        "2609.01865",
+        "2609.00474",
+        "2608.29607",
+        "2608.30751",
+        "2608.30322",
+        "2609.00377",
+        "2609.02496",
+        "2609.00834",
+        "2609.01936",
+        "2609.01823",
+        "2608.30005",
+        "2608.29692",
+        "2608.29669",
+        "2504.15476"
+      ],
+      "summarized_ids": [
+        "2609.02749",
+        "2609.01437",
+        "2608.31111",
+        "2609.02886",
+        "2609.02783",
+        "2609.00638",
+        "2609.02737",
+        "2608.31100",
+        "2609.01147",
+        "2609.00196",
+        "2608.21450",
+        "2609.01740",
+        "2609.01657",
+        "2609.02817",
+        "2609.02812",
+        "2609.00591",
+        "2608.29846",
+        "2608.18972",
+        "2609.02849",
+        "2609.01925",
+        "2608.30949",
+        "2609.02272",
+        "2609.01865",
+        "2609.00474",
+        "2608.29607",
+        "2608.30751",
+        "2608.30322",
+        "2609.00377",
+        "2609.02496",
+        "2609.00834",
+        "2609.01936",
+        "2609.01823",
+        "2608.30005",
+        "2608.29692",
+        "2608.29669",
+        "2504.15476"
+      ],
+      "pending_ids": [],
+      "fetched_at": "2026-09-07T01:03:49.424389+00:00",
+      "ranking_source": "https://huggingface.co/papers/date/2026-09-03",
+      "ranking_fetched_at": "2026-09-07T01:03:49.424389+00:00",
+      "top_ten_ids": [
+        "2609.02749",
+        "2609.01437",
+        "2608.31111",
+        "2609.02886",
+        "2609.02783",
+        "2609.00638",
+        "2609.02737",
+        "2608.31100",
+        "2609.01147",
+        "2609.00196"
+      ]
+    },
+    "2026-09-04": {
+      "status": "complete",
+      "report": "HFDailyPapers/2026-09-04-HF日报.md",
+      "source_ids": [
+        "2609.04199",
+        "2609.04148",
+        "2609.03796",
+        "2609.03430",
+        "2608.26730",
+        "2609.03199",
+        "2609.01507",
+        "2609.04172",
+        "2609.04098",
+        "2609.04196",
+        "2609.04201",
+        "2609.04034",
+        "2609.02367",
+        "2609.04131",
+        "2609.04173",
+        "2608.27831",
+        "2609.04094",
+        "2609.04083",
+        "2609.03952",
+        "2609.03293",
+        "2609.03563",
+        "2609.04128",
+        "2608.30391",
+        "2609.04200",
+        "2609.03820",
+        "2609.02373",
+        "2608.29253",
+        "2609.01072",
+        "2609.03153",
+        "2609.02887",
+        "2608.29188"
+      ],
+      "summarized_ids": [
+        "2609.04199",
+        "2609.04148",
+        "2609.03796",
+        "2609.03430",
+        "2608.26730",
+        "2609.03199",
+        "2609.01507",
+        "2609.04172",
+        "2609.04098",
+        "2609.04196",
+        "2609.04201",
+        "2609.04034",
+        "2609.02367",
+        "2609.04131",
+        "2609.04173",
+        "2608.27831",
+        "2609.04094",
+        "2609.04083",
+        "2609.03952",
+        "2609.03293",
+        "2609.03563",
+        "2609.04128",
+        "2608.30391",
+        "2609.04200",
+        "2609.03820",
+        "2609.02373",
+        "2608.29253",
+        "2609.01072",
+        "2609.03153",
+        "2609.02887",
+        "2608.29188"
+      ],
+      "pending_ids": [],
+      "fetched_at": "2026-09-07T01:03:50.850588+00:00",
+      "ranking_source": "https://huggingface.co/papers/date/2026-09-04",
+      "ranking_fetched_at": "2026-09-07T01:03:50.850588+00:00",
+      "top_ten_ids": [
+        "2609.04199",
+        "2609.04148",
+        "2609.03796",
+        "2609.03430",
+        "2608.26730",
+        "2609.03199",
+        "2609.01507",
+        "2609.04172",
+        "2609.04098",
+        "2609.04196"
+      ]
+    },
+    "2026-09-05": {
+      "status": "empty",
+      "report": "HFDailyPapers/2026-09-05-HF日报.md",
+      "source_ids": [],
+      "summarized_ids": [],
+      "pending_ids": [],
+      "fetched_at": "2026-09-07T01:03:51.773717+00:00",
+      "ranking_source": "https://huggingface.co/papers/date/2026-09-05",
+      "ranking_fetched_at": "2026-09-07T01:03:51.773717+00:00",
+      "top_ten_ids": []
+    },
+    "2026-09-06": {
+      "status": "empty",
+      "report": "HFDailyPapers/2026-09-06-HF日报.md",
+      "source_ids": [],
+      "summarized_ids": [],
+      "pending_ids": [],
+      "fetched_at": "2026-09-07T01:03:52.827875+00:00",
+      "ranking_source": "https://huggingface.co/papers/date/2026-09-06",
+      "ranking_fetched_at": "2026-09-07T01:03:52.827875+00:00",
+      "top_ten_ids": []
+    },
+    "2026-09-07": {
+      "status": "error",
+      "report": "HFDailyPapers/2026-09-07-HF日报.md",
+      "source_ids": [],
+      "summarized_ids": [],
+      "pending_ids": [],
+      "fetched_at": "2026-09-07T01:03:54.349049+00:00",
+      "ranking_source": "https://huggingface.co/papers/date/2026-09-07",
+      "ranking_fetched_at": "2026-09-07T01:03:54.349049+00:00",
+      "top_ten_ids": []
+    }
+  },
+  "papers": {
+    "2608.31046": {
+      "title": "Does On-Policy Distillation Really Distill? From Noisy Teacher to Self-Improvement",
+      "seen_dates": [
+        "2026-09-01"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-01-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "method_experiments"
+    },
+    "2608.30821": {
+      "title": "Lucida: Parse, Generate, and Place for Composable Real-to-Sim Scene Modeling",
+      "seen_dates": [
+        "2026-09-01"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-01-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "method_experiments"
+    },
+    "2608.31106": {
+      "title": "DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Resolution",
+      "seen_dates": [
+        "2026-09-01"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-01-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "method_experiments"
+    },
+    "2608.29335": {
+      "title": "GenFirst: Generation Before Reconstruction for Stable End-to-End Latent Generative Modeling",
+      "seen_dates": [
+        "2026-09-01"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-01-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "method_experiments"
+    },
+    "2608.30320": {
+      "title": "On the Design of Qwen3.8-Next Architecture: Evaluation, Efficiency, and Training Stability",
+      "seen_dates": [
+        "2026-09-01"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-01-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "method_experiments"
+    },
+    "2608.31036": {
+      "title": "Normalized Low-Rank Adaptation",
+      "seen_dates": [
+        "2026-09-01"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-01-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "method_experiments"
+    },
+    "2608.31119": {
+      "title": "PaperGym: Rubric-Centered Evolution for Research-Plan Generation",
+      "seen_dates": [
+        "2026-09-01"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-01-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "method_experiments"
+    },
+    "2608.28600": {
+      "title": "SHAPE of Chain-of-Thought in Math Reasoning",
+      "seen_dates": [
+        "2026-09-01"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-01-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "method_experiments"
+    },
+    "2608.30935": {
+      "title": "LightNav-0: Eliciting VLM Spatial Intelligence for Generalist Embodied Navigation",
+      "seen_dates": [
+        "2026-09-01"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-01-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "method_experiments"
+    },
+    "2608.30968": {
+      "title": "CogEvol: Towards Efficient and Reliable Learning Environment Generation",
+      "seen_dates": [
+        "2026-09-01"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-01-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "method_experiments"
+    },
+    "2608.31075": {
+      "title": "Scaling Large Reasoning Models beyond Human Supervision: A Path toward Superintelligence",
+      "seen_dates": [
+        "2026-09-01"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-01-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2608.28833": {
+      "title": "Evaluating the Hidden Costs of Personalization in Large Language Models",
+      "seen_dates": [
+        "2026-09-01"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-01-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2608.29310": {
+      "title": "Super Library Agent: Joint Generation and Maintenance of Multiple Applications Beyond the Single Codebase",
+      "seen_dates": [
+        "2026-09-01"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-01-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2608.31076": {
+      "title": "Learning to Evaluate Before Improving: Automatic Rubric Induction for Automatic Research Agents",
+      "seen_dates": [
+        "2026-09-01"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-01-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2608.29910": {
+      "title": "Matrix-Game 3.5: Enhancing Real-Time Streaming Interactive World Models with Patch Memory",
+      "seen_dates": [
+        "2026-09-01"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-01-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2608.30428": {
+      "title": "Lies We Can See: Joint Verbal and Non-Verbal Deception by VLM Agents in Embodied Social Interactions",
+      "seen_dates": [
+        "2026-09-01"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-01-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2608.29464": {
+      "title": "Chain-of-Thought Faithfulness of Reasoning Models Varies with Where and How Preference Cues Are Delivered",
+      "seen_dates": [
+        "2026-09-01"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-01-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2608.24293": {
+      "title": "Keep-or-Drop? Adaptive Tokenizer for Compact Video Representation",
+      "seen_dates": [
+        "2026-09-01"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-01-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2608.30241": {
+      "title": "PaperBanana-Interact: Scientific Diagram Refinement with Multi-Turn Human Feedback",
+      "seen_dates": [
+        "2026-09-01"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-01-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2608.30396": {
+      "title": "Scaffolding Foundation Models into Physical-World Agents Pushes the Frontier of Long-Horizon Navigation",
+      "seen_dates": [
+        "2026-09-01"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-01-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2608.30135": {
+      "title": "Verification-Aware Training for Speculative Decoding",
+      "seen_dates": [
+        "2026-09-01"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-01-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2608.30530": {
+      "title": "WebWorld: The Browser as a World Model for Self-Improving Web Code",
+      "seen_dates": [
+        "2026-09-01"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-01-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2608.30147": {
+      "title": "CAST: Critique-Aware Supervision for Training Reliable Long-Horizon Tool-Calling Agents",
+      "seen_dates": [
+        "2026-09-01"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-01-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2608.31022": {
+      "title": "MNIST-PRO: MNIST is Back as a Partially Observable World for AI Agents",
+      "seen_dates": [
+        "2026-09-01"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-01-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2608.28695": {
+      "title": "Weaving Visual Narratives: Agentic Image Bundle Composition Beyond Atomic Visual Matching",
+      "seen_dates": [
+        "2026-09-01"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-01-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2608.30209": {
+      "title": "DICS: Exploring Data Intrinsic Consistency for Visual Instruction Selection",
+      "seen_dates": [
+        "2026-09-01"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-01-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2608.29098": {
+      "title": "SafeAtlas-VL: Beyond Binary Multimodal Safety with Large-Scale Data and Guard Models",
+      "seen_dates": [
+        "2026-09-01"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-01-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2608.29613": {
+      "title": "Cross-lingual Functional Vectors for Emotion Detection in Large Language Models",
+      "seen_dates": [
+        "2026-09-01"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-01-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2608.28958": {
+      "title": "CoVA-SFT: A Large-Scale Dataset for Chain of Visual Abstractions",
+      "seen_dates": [
+        "2026-09-01"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-01-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2608.29974": {
+      "title": "SpanCalib-VLM: Calibrated Hallucination Span Detection in Vision-Language Models",
+      "seen_dates": [
+        "2026-09-01"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-01-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2608.29847": {
+      "title": "ContextBias: Controlled Evaluation of Bias Persistence Under Context Shift in Text-to-Image Models",
+      "seen_dates": [
+        "2026-09-01"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-01-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2608.29387": {
+      "title": "EvoGenUI-Bench: Evaluating LLMs as Multi-Turn Generative UI Assistants",
+      "seen_dates": [
+        "2026-09-01"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-01-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2608.26671": {
+      "title": "RECAP-Forcing: Retaining Content Appearances for Long Video Generation",
+      "seen_dates": [
+        "2026-09-01"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-01-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2609.00519": {
+      "title": "The Safeguard Worked. Is the LLM System Safer?",
+      "seen_dates": [
+        "2026-09-01"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-01-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2608.31113": {
+      "title": "BLARM: Animating 3D Objects from Video via Blending Latent Rigid Motion Primitives",
+      "seen_dates": [
+        "2026-09-01"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-01-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2608.29681": {
+      "title": "MMMMM: A Unified Taxonomy for Investigating the Mechanisms of Multilingual MultiModal Misinformation",
+      "seen_dates": [
+        "2026-09-01"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-01-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2608.29137": {
+      "title": "Chat-Edit-3D++: Interactive 3D and 4D Scene Editing via Large Language Models",
+      "seen_dates": [
+        "2026-09-01"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-01-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2608.29252": {
+      "title": "Dynamic Important Example Mining for Reinforcement Finetuning",
+      "seen_dates": [
+        "2026-09-01"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-01-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2608.30795": {
+      "title": "Uncertainty-Aware End-to-End AI Weather Forecasting: Disentangling Observation and Model Contributions",
+      "seen_dates": [
+        "2026-09-01"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-01-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2609.01591": {
+      "title": "StudentSim: Training LLM-based Student Simulators",
+      "seen_dates": [
+        "2026-09-02"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-02-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "method_experiments"
+    },
+    "2609.00111": {
+      "title": "Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving",
+      "seen_dates": [
+        "2026-09-02"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-02-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "method_experiments"
+    },
+    "2609.01343": {
+      "title": "SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers",
+      "seen_dates": [
+        "2026-09-02"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-02-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "method_experiments"
+    },
+    "2609.00028": {
+      "title": "UI-Venus-2 Technical Report",
+      "seen_dates": [
+        "2026-09-02"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-02-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "method_experiments"
+    },
+    "2609.00188": {
+      "title": "ZimaBlue: Evolving Generalizable World Action Models through Scalable Video Pre-training",
+      "seen_dates": [
+        "2026-09-02"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-02-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "method_experiments"
+    },
+    "2609.01560": {
+      "title": "H3-World: Turning Language Understanding into World Control",
+      "seen_dates": [
+        "2026-09-02"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-02-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "method_experiments"
+    },
+    "2608.30468": {
+      "title": "Hi-Q: Hierarchical Evidence-guided Query Refinement for Multi-Hop Question Answering",
+      "seen_dates": [
+        "2026-09-02"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-02-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "method_experiments"
+    },
+    "2609.01572": {
+      "title": "From Production Traffic to Post-Training: Building a Self-Hosted LLM That Covers the Corporate Request Mix",
+      "seen_dates": [
+        "2026-09-02"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-02-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "method_experiments"
+    },
+    "2609.01404": {
+      "title": "Evaluating Multimodal LLMs as Generalist Vision-Language-Action Agents for Drone Control: Commanding, Approaching, Tracking and Searching",
+      "seen_dates": [
+        "2026-09-02"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-02-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "method_experiments"
+    },
+    "2609.01607": {
+      "title": "Uncovering Understanding-Generation Synergy in Native Unified Multimodal Models: From Representation, Task to System",
+      "seen_dates": [
+        "2026-09-02"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-02-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "method_experiments"
+    },
+    "2609.00768": {
+      "title": "DiagEvo: Diagnosis-Guided Self-Evolution via Hierarchical Error Memory",
+      "seen_dates": [
+        "2026-09-02"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-02-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2609.00092": {
+      "title": "Safin-1: Safety from Within through Memory-Native State Evolution",
+      "seen_dates": [
+        "2026-09-02"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-02-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2608.26623": {
+      "title": "AgentJudgeBench: A Multi-Difficulty Benchmark for Evaluating LLM Judges on Agentic Tool-Calling",
+      "seen_dates": [
+        "2026-09-02"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-02-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2609.01481": {
+      "title": "Harness-of-Harness: Multi-Day Autonomous Software Development with Continual Improvement",
+      "seen_dates": [
+        "2026-09-02"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-02-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2608.30730": {
+      "title": "E-Commerce Bench: Evaluating LLM Agents on Long-Horizon Autonomous Business Operation",
+      "seen_dates": [
+        "2026-09-02"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-02-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2609.00551": {
+      "title": "EM^2Mem: Event-Centric Multimodal Memory for Large Language Models",
+      "seen_dates": [
+        "2026-09-02"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-02-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2608.30478": {
+      "title": "Agents in the Large: Perception-Centered Architecture for Persistent Agents",
+      "seen_dates": [
+        "2026-09-02"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-02-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2608.30457": {
+      "title": "Learning Where Outcomes Change:Credit-Addressable Reasoning for Multimodal Geometry",
+      "seen_dates": [
+        "2026-09-02"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-02-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2609.01532": {
+      "title": "Knowledge Distillation During Mid-Training Favors Reasoning over Factual Recall",
+      "seen_dates": [
+        "2026-09-02"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-02-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2609.00621": {
+      "title": "Control-Data Flow Separation: Stable Prompt Optimization in Multi-Agent LLMs",
+      "seen_dates": [
+        "2026-09-02"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-02-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2608.28612": {
+      "title": "InternReviewer & InternAdvocate: Objective Reward and Evaluation for Agentic Reinforcement Learning in Peer Review and Rebuttal",
+      "seen_dates": [
+        "2026-09-02"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-02-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2609.01836": {
+      "title": "Agent Memory Is a Surface for Endogenous Authorization Laundering",
+      "seen_dates": [
+        "2026-09-02"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-02-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2609.00374": {
+      "title": "Adapting Without Gradients: Affine Statistics Transport and What Its Certificate Can Tell You",
+      "seen_dates": [
+        "2026-09-02"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-02-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2608.27509": {
+      "title": "The Mechanics of Democratic Dominance: A System Dynamics Paradigm for Dynamic Consent Engineering",
+      "seen_dates": [
+        "2026-09-02"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-02-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2609.00137": {
+      "title": "Recursive Criticality of AI Self-Improvement",
+      "seen_dates": [
+        "2026-09-02"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-02-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2609.00646": {
+      "title": "DramaChain Bench: An End-to-End Benchmark for Short-Drama Generation",
+      "seen_dates": [
+        "2026-09-02"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-02-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2609.00968": {
+      "title": "ReFlowSET: Representation-Aligned Latent Flow Matching for SAR-to-EO Image Translation",
+      "seen_dates": [
+        "2026-09-02"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-02-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2608.31082": {
+      "title": "Token-Efficient Data Reasoning Agents via Adaptive Structuring of Unstructured Data",
+      "seen_dates": [
+        "2026-09-02"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-02-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2609.01453": {
+      "title": "Does Imitation Learning Preserve Temporal Robustness in Dexterous Manipulation? An Expert-Learner Comparison Across Task Execution Speeds",
+      "seen_dates": [
+        "2026-09-02"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-02-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2609.02749": {
+      "title": "Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills",
+      "seen_dates": [
+        "2026-09-03"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-03-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "method_experiments"
+    },
+    "2609.01437": {
+      "title": "HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness?",
+      "seen_dates": [
+        "2026-09-03"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-03-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "method_experiments"
+    },
+    "2608.31111": {
+      "title": "Aspire: Can Models Self-Evolve from Vague Goals?",
+      "seen_dates": [
+        "2026-09-03"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-03-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "method_experiments"
+    },
+    "2609.02886": {
+      "title": "SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models",
+      "seen_dates": [
+        "2026-09-03"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-03-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "method_experiments"
+    },
+    "2609.02783": {
+      "title": "EarlyEval: Cheaper Agent Evaluation via Early Outcome Prediction",
+      "seen_dates": [
+        "2026-09-03"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-03-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "method_experiments"
+    },
+    "2609.00638": {
+      "title": "It Takes Two to Match: Co-Evolving Generative Retriever with Reinforcement Learning",
+      "seen_dates": [
+        "2026-09-03"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-03-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "method_experiments"
+    },
+    "2609.02737": {
+      "title": "Language Models Can Control Their Own Attention",
+      "seen_dates": [
+        "2026-09-03"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-03-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "method_experiments"
+    },
+    "2608.31100": {
+      "title": "S3Gym: Can LLMs Turn Self-Testing and Self-Judging into Self-Improvement?",
+      "seen_dates": [
+        "2026-09-03"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-03-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "method_experiments"
+    },
+    "2609.01147": {
+      "title": "On the Design Fundamentals of Pixel Text Representation Learning",
+      "seen_dates": [
+        "2026-09-03"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-03-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "method_experiments"
+    },
+    "2609.00196": {
+      "title": "WHALE: A Simple Recipe for Joint Harness-Weight Optimization",
+      "seen_dates": [
+        "2026-09-03"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-03-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "method_experiments"
+    },
+    "2608.21450": {
+      "title": "Beyond Visual Similarity: Entity-Aligned Retrieval for Knowledge-Based Visual Question Answering",
+      "seen_dates": [
+        "2026-09-03"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-03-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2609.01740": {
+      "title": "ZipTok3D: High-Fidelity 3D Tokenization with Compact Token Prefixes",
+      "seen_dates": [
+        "2026-09-03"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-03-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2609.01657": {
+      "title": "NeoMME: A Single-Tower Multimodal-Native Multilingual Foundation Encoder for Efficient Fine-Tuning and Inference",
+      "seen_dates": [
+        "2026-09-03"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-03-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2609.02817": {
+      "title": "Cliff: Learning Process Rewards from the First Mistake",
+      "seen_dates": [
+        "2026-09-03"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-03-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2609.02812": {
+      "title": "VibeVoice-ASR-Streaming Technical Report",
+      "seen_dates": [
+        "2026-09-03"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-03-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2609.00591": {
+      "title": "A Glance Is All You Need: Single-Pass Fine-Grained Image Captioning with SimLoss",
+      "seen_dates": [
+        "2026-09-03"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-03-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2608.29846": {
+      "title": "Influence-Directed Distillation: Solving the Diversity Bottleneck in Sampled-Token On-Policy Distillation",
+      "seen_dates": [
+        "2026-09-03"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-03-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2608.18972": {
+      "title": "Institutional Newspapers Pipeline: Deriving billions of high quality tokens from historical newspapers",
+      "seen_dates": [
+        "2026-09-03"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-03-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2609.02849": {
+      "title": "Post-Training Language Models for Gold-Medal Performance in Coding Competitions",
+      "seen_dates": [
+        "2026-09-03"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-03-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2609.01925": {
+      "title": "CRISP: Cliff-awaRe Input-adaptive Sparse Prefilling with Structural-Mass-Motivated Routing",
+      "seen_dates": [
+        "2026-09-03"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-03-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2608.30949": {
+      "title": "MULTI3IR: A Benchmark for Multi-perspective Multi-domain Multi-modal Information Retrieval",
+      "seen_dates": [
+        "2026-09-03"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-03-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2609.02272": {
+      "title": "PaperCompiler: Faithful Paper-to-Code Generation via Repository-Level Specification Compilation",
+      "seen_dates": [
+        "2026-09-03"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-03-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2609.01865": {
+      "title": "ExecRetrieval: Measuring the Functional-Correctness Gap in Code-Embedding Retrieval",
+      "seen_dates": [
+        "2026-09-03"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-03-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2609.00474": {
+      "title": "Exploring Collaboration between a language and a non-language agent",
+      "seen_dates": [
+        "2026-09-03"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-03-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2608.29607": {
+      "title": "SnapBench: Benchmarking Snap-and-Ask Multimodal Retrieval for Mobile Interactions",
+      "seen_dates": [
+        "2026-09-03"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-03-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2608.30751": {
+      "title": "Autoregressive Mosaics: Probing 2D Spatial Reasoning in Text-Only Language Models",
+      "seen_dates": [
+        "2026-09-03"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-03-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2608.30322": {
+      "title": "Ignorance or Incompetence? Constructing Knowledge-Gated, Verifiable Tasks for LLM Agents",
+      "seen_dates": [
+        "2026-09-03"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-03-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2609.00377": {
+      "title": "FoldingAgent: Inferring Parametric Origami Procedures from Demonstration Videos",
+      "seen_dates": [
+        "2026-09-03"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-03-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2609.02496": {
+      "title": "Debias-SparseGPT: Bias-Aware Pruning for Large Language Models",
+      "seen_dates": [
+        "2026-09-03"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-03-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2609.00834": {
+      "title": "Replacing Training with Memory: Listwise Selection for Text-to-SQL",
+      "seen_dates": [
+        "2026-09-03"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-03-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2609.01936": {
+      "title": "Sparse Readout Prism: Explaining Logit-Lens Scores in Features Instead of Tokens",
+      "seen_dates": [
+        "2026-09-03"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-03-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2609.01823": {
+      "title": "Kirin: Animal Motion Generation from In-the-Wild Video",
+      "seen_dates": [
+        "2026-09-03"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-03-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2608.30005": {
+      "title": "Small Language Models as Judges for Rubric-Based Reinforcement Learning",
+      "seen_dates": [
+        "2026-09-03"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-03-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2608.29692": {
+      "title": "Portfolio Risk Bounds without Cross-Asset Return Covariances: Distributional Fields from Language-Model Representations",
+      "seen_dates": [
+        "2026-09-03"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-03-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2608.29669": {
+      "title": "Wasserstein-Barycentric Interaction Fields for Spatial Factor Models: Evidence from Language-Model Representations",
+      "seen_dates": [
+        "2026-09-03"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-03-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2504.15476": {
+      "title": "An Empirical Study on Zero-Data Bootstrapping for Conversational Recommender Systems",
+      "seen_dates": [
+        "2026-09-03"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-03-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2609.04199": {
+      "title": "Compile by Training: Turning Natural-Language Specifications into Local Neural Functions",
+      "seen_dates": [
+        "2026-09-04"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-04-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "method_experiments"
+    },
+    "2609.04148": {
+      "title": "Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments",
+      "seen_dates": [
+        "2026-09-04"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-04-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "method_experiments"
+    },
+    "2609.03796": {
+      "title": "LLaDA-Image: Building Strong Image Generators with Fully Open Training Recipes",
+      "seen_dates": [
+        "2026-09-04"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-04-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "method_experiments"
+    },
+    "2609.03430": {
+      "title": "Random Attention: Rethinking KV Cache Eviction for Efficient Reasoning",
+      "seen_dates": [
+        "2026-09-04"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-04-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "method_experiments"
+    },
+    "2608.26730": {
+      "title": "Knowing When Not to Reuse: Conditional Experience Transfer in Autonomous LLM Post-Training",
+      "seen_dates": [
+        "2026-09-04"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-04-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "method_experiments"
+    },
+    "2609.03199": {
+      "title": "RoboTok: An Internet-Scale Data Engine for Human Demonstration Retrieval and Dexterous Manipulation Learning",
+      "seen_dates": [
+        "2026-09-04"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-04-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "method_experiments"
+    },
+    "2609.01507": {
+      "title": "LatentPress: Context Compression Beyond Text and Vision",
+      "seen_dates": [
+        "2026-09-04"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-04-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "method_experiments"
+    },
+    "2609.04172": {
+      "title": "Rethinking On-Policy Distillation of Large Language Models II: One Training Example",
+      "seen_dates": [
+        "2026-09-04"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-04-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "method_experiments"
+    },
+    "2609.04098": {
+      "title": "Why Gated DeltaNet Survives 4-Bit Quantization: NVFP4 W4A4 for the Recurrent Half of a Hybrid 27B LLM",
+      "seen_dates": [
+        "2026-09-04"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-04-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "method_experiments"
+    },
+    "2609.04196": {
+      "title": "Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States",
+      "seen_dates": [
+        "2026-09-04"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-04-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "method_experiments"
+    },
+    "2609.04201": {
+      "title": "Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction",
+      "seen_dates": [
+        "2026-09-04"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-04-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2609.04034": {
+      "title": "Editable Visual Design",
+      "seen_dates": [
+        "2026-09-04"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-04-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2609.02367": {
+      "title": "The Missing Temporal Link: Temporal Context Routing for Script-Driven Audio-Video Generation",
+      "seen_dates": [
+        "2026-09-04"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-04-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2609.04131": {
+      "title": "Beyond Retrieval: Progressive Latent Memory Evolution for Streaming Video Understanding",
+      "seen_dates": [
+        "2026-09-04"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-04-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2609.04173": {
+      "title": "Last Translation Benchmark",
+      "seen_dates": [
+        "2026-09-04"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-04-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2608.27831": {
+      "title": "RealSWE: A Compositional Evaluation of Coding Agents under Realistic User Requests",
+      "seen_dates": [
+        "2026-09-04"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-04-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2609.04094": {
+      "title": "DRACO: Fine-Grained Credit Assignment with Dynamic Rubrics for Long-Horizon Agent Training",
+      "seen_dates": [
+        "2026-09-04"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-04-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2609.04083": {
+      "title": "CORE: Improving Compositional Reasoning in MLLM Embedding via Reranker Distillation",
+      "seen_dates": [
+        "2026-09-04"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-04-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2609.03952": {
+      "title": "WorldReward: Reward Modeling for Camera-Conditioned World Models",
+      "seen_dates": [
+        "2026-09-04"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-04-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2609.03293": {
+      "title": "PACE: Towards Surfacing Hidden Conflicts in User Requests",
+      "seen_dates": [
+        "2026-09-04"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-04-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2609.03563": {
+      "title": "FlashRender: Few-Step Generative Rendering via Camera-Controlled Video MeanFlow",
+      "seen_dates": [
+        "2026-09-04"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-04-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2609.04128": {
+      "title": "Environment Evolution for Terminal Agents",
+      "seen_dates": [
+        "2026-09-04"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-04-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2608.30391": {
+      "title": "Using Grounded Theory for Agent Behavior Analysis at Scale",
+      "seen_dates": [
+        "2026-09-04"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-04-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2609.04200": {
+      "title": "Principia: Relational Physics Tests for Video Models",
+      "seen_dates": [
+        "2026-09-04"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-04-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2609.03820": {
+      "title": "Select, Compress, Reinvest: A Controlled Study of Visual-Token Allocation in Long-Video MLLMs",
+      "seen_dates": [
+        "2026-09-04"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-04-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2609.02373": {
+      "title": "Percolation Dynamics in Optimization : Variance Cascades and Discrete Scale Invariance",
+      "seen_dates": [
+        "2026-09-04"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-04-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2608.29253": {
+      "title": "QCell: Recombining and Aligning Cell Queries for Overlapping Instance Segmentation",
+      "seen_dates": [
+        "2026-09-04"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-04-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2609.01072": {
+      "title": "Let Confidence Change, Not the Prediction: Prediction-Preserving Repair for Post-hoc Calibration",
+      "seen_dates": [
+        "2026-09-04"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-04-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2609.03153": {
+      "title": "VeriPhy: Agentic Physical Reasoning for World Model Evaluation and Refinement",
+      "seen_dates": [
+        "2026-09-04"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-04-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2609.02887": {
+      "title": "A Common Measure of Communication for Speech Brain-Computer Interfaces",
+      "seen_dates": [
+        "2026-09-04"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-04-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    },
+    "2608.29188": {
+      "title": "Locked at the Entrance, Open Inside: Where RLVR Narrows the Solution Space",
+      "seen_dates": [
+        "2026-09-04"
+      ],
+      "reports": [
+        "HFDailyPapers/2026-09-04-HF日报.md"
+      ],
+      "note": null,
+      "reading_depth": "abstract"
+    }
+  },
+  "concepts": {
+    "On-Policy Distillation": {
+      "path": "PaperNotes/_concepts/11-深度学习基础/On-Policy Distillation.md",
+      "aliases": [],
+      "explained_dates": [
+        "2026-09-07"
+      ],
+      "user_feedback": []
+    },
+    "Vision-Language Model": {
+      "path": "PaperNotes/_concepts/11-深度学习基础/Vision-Language Model.md",
+      "aliases": [],
+      "explained_dates": [
+        "2026-09-07"
+      ],
+      "user_feedback": []
+    },
+    "Flow Matching": {
+      "path": "PaperNotes/_concepts/1-生成模型/Flow Matching.md",
+      "aliases": [],
+      "explained_dates": [
+        "2026-09-07"
+      ],
+      "user_feedback": []
+    },
+    "KL Divergence": {
+      "path": "PaperNotes/_concepts/11-深度学习基础/KL Divergence.md",
+      "aliases": [],
+      "explained_dates": [
+        "2026-09-07"
+      ],
+      "user_feedback": []
+    },
+    "LoRA": {
+      "path": "PaperNotes/_concepts/11-深度学习基础/LoRA.md",
+      "aliases": [],
+      "explained_dates": [
+        "2026-09-07"
+      ],
+      "user_feedback": []
+    },
+    "Chain-of-Thought Prompting": {
+      "path": "PaperNotes/_concepts/11-深度学习基础/Chain-of-Thought Prompting.md",
+      "aliases": [],
+      "explained_dates": [
+        "2026-09-07"
+      ],
+      "user_feedback": []
+    },
+    "Residual Quantization": {
+      "path": "PaperNotes/_concepts/11-深度学习基础/Residual Quantization.md",
+      "aliases": [],
+      "explained_dates": [
+        "2026-09-07"
+      ],
+      "user_feedback": []
+    },
+    "World Action Model": {
+      "path": "PaperNotes/_concepts/3-机器人策略/World Action Model.md",
+      "aliases": [],
+      "explained_dates": [
+        "2026-09-07"
+      ],
+      "user_feedback": []
+    },
+    "Retrieval-Augmented Generation": {
+      "path": "PaperNotes/_concepts/11-深度学习基础/Retrieval-Augmented Generation.md",
+      "aliases": [],
+      "explained_dates": [
+        "2026-09-07"
+      ],
+      "user_feedback": []
+    },
+    "Agent Harness": {
+      "path": "PaperNotes/_concepts/11-深度学习基础/Agent Harness.md",
+      "aliases": [],
+      "explained_dates": [
+        "2026-09-07"
+      ],
+      "user_feedback": []
+    },
+    "World Model": {
+      "path": "PaperNotes/_concepts/2-强化学习/World Model.md",
+      "aliases": [],
+      "explained_dates": [
+        "2026-09-07"
+      ],
+      "user_feedback": []
+    },
+    "Action Chunking": {
+      "path": "PaperNotes/_concepts/3-机器人策略/Action Chunking.md",
+      "aliases": [],
+      "explained_dates": [
+        "2026-09-07"
+      ],
+      "user_feedback": []
+    }
+  }
+}

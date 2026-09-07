@@ -1,0 +1,397 @@
+{
+  "date": "2026-09-07",
+  "source_url": "https://huggingface.co/api/daily_papers?date=2026-09-07",
+  "fetched_at": "2026-09-07T01:59:19.418842+00:00",
+  "status": "ok",
+  "raw": [
+    {
+      "paper": {
+        "id": "2609.05416",
+        "authors": [
+          {
+            "_id": "6a9e1a56de5ea82090db6541",
+            "name": "Muyao Niu",
+            "hidden": false
+          },
+          {
+            "_id": "6a9e1a56de5ea82090db6542",
+            "name": "Jixuan He",
+            "hidden": false
+          },
+          {
+            "_id": "6a9e1a56de5ea82090db6543",
+            "name": "Ruihan Yu",
+            "hidden": false
+          },
+          {
+            "_id": "6a9e1a56de5ea82090db6544",
+            "name": "Lian Fu",
+            "hidden": false
+          },
+          {
+            "_id": "6a9e1a56de5ea82090db6545",
+            "name": "Yonghao Yu",
+            "hidden": false
+          },
+          {
+            "_id": "6a9e1a56de5ea82090db6546",
+            "name": "Zheng-Hui Huang",
+            "hidden": false
+          },
+          {
+            "_id": "6a9e1a56de5ea82090db6547",
+            "name": "Yifan Zhan",
+            "hidden": false
+          },
+          {
+            "_id": "6a9e1a56de5ea82090db6548",
+            "name": "Fengbo Lan",
+            "hidden": false
+          },
+          {
+            "_id": "6a9e1a56de5ea82090db6549",
+            "name": "Yongtao Ge",
+            "hidden": false
+          },
+          {
+            "_id": "6a9e1a56de5ea82090db654a",
+            "name": "Yinqiang Zheng",
+            "hidden": false
+          },
+          {
+            "_id": "6a9e1a56de5ea82090db654b",
+            "name": "Kaipeng Zhang",
+            "hidden": false
+          },
+          {
+            "_id": "6a9e1a56de5ea82090db654c",
+            "name": "Zhixiang Wang",
+            "hidden": false
+          }
+        ],
+        "mediaUrls": [
+          "https://cdn-uploads.huggingface.co/production/uploads/6039478ab3ecf716b1a5fd4d/44G1quHegYGG-9pQuTZ_7.mp4"
+        ],
+        "publishedAt": "2026-09-04T00:00:00.000Z",
+        "submittedOnDailyAt": "2026-09-07T00:00:00.000Z",
+        "title": "WorldSculpt: Generating Compositional Worlds from Grounded Videos",
+        "submittedOnDailyBy": {
+          "_id": "6039478ab3ecf716b1a5fd4d",
+          "avatarUrl": "https://cdn-avatars.huggingface.co/v1/production/uploads/6039478ab3ecf716b1a5fd4d/_Thy4E7taiSYBLKxEKJbT.jpeg",
+          "isPro": true,
+          "fullname": "taesiri",
+          "user": "taesiri",
+          "type": "user",
+          "name": "taesiri"
+        },
+        "summary": "We study the problem of generating a compositional 3D representation of a cluttered scene containing hundreds of objects. The goal is to represent the scene as a collection of individual object meshes placed in a shared world frame, as required by downstream applications such as gaming, AR/VR, simulation, and robotics. This task is challenging in densely cluttered scenes, where objects heavily occlude one another and each view reveals only a fraction of their geometry. Geometry-based approaches typically reconstruct the scene as a single representation and leave incomplete geometry in occluded regions, while existing compositional methods with generative priors are largely limited to relatively simple scenes. We show that complex scenes with hundreds of objects can instead be generated compositionally by adapting a strong single-object 3D generative prior to multi-view observations. We instantiate this paradigm with Pixal3D, extending it with a multi-view conditioning pathway that grounds object generation in multiple posed observations. Although the model is finetuned entirely on single objects in canonical space, it generalizes to large scenes with severe occlusion without any scene-level training, demonstrating the feasibility and scalability of this paradigm. We further introduce UE-MeshyScene, a photorealistic benchmark of densely cluttered scenes with hundreds of objects, per-object annotations, and ground-truth meshes. Across single-object, controlled multi-object, and UE-MeshyScene evaluations, our method consistently outperforms prior approaches, with larger gains as scene complexity and occlusion increase. Finally, we demonstrate broader applicability by converting generated 3DGS worlds, such as Marble and HY-World 2.0, into compositional mesh scenes.",
+        "upvotes": 1,
+        "discussionId": "6a9e1a57de5ea82090db654d",
+        "projectPage": "https://alaya-lab.github.io/WorldSculpt/",
+        "githubRepo": "https://github.com/AlayaLab/WorldSculpt",
+        "githubRepoAddedBy": "user",
+        "ai_summary": "Adapting a single-object 3D generative prior to multi-view observations enables scalable compositional mesh reconstruction of densely cluttered scenes with severe occlusion.",
+        "ai_keywords": [
+          "compositional 3D representation",
+          "object meshes",
+          "multi-view conditioning",
+          "3D generative prior",
+          "Pixal3D",
+          "3DGS",
+          "UE-MeshyScene"
+        ],
+        "ai_summary_model": "thinkingmachines/Inkling-Small"
+      },
+      "publishedAt": "2026-09-03T20:00:00.000Z",
+      "title": "WorldSculpt: Generating Compositional Worlds from Grounded Videos",
+      "summary": "We study the problem of generating a compositional 3D representation of a cluttered scene containing hundreds of objects. The goal is to represent the scene as a collection of individual object meshes placed in a shared world frame, as required by downstream applications such as gaming, AR/VR, simulation, and robotics. This task is challenging in densely cluttered scenes, where objects heavily occlude one another and each view reveals only a fraction of their geometry. Geometry-based approaches typically reconstruct the scene as a single representation and leave incomplete geometry in occluded regions, while existing compositional methods with generative priors are largely limited to relatively simple scenes. We show that complex scenes with hundreds of objects can instead be generated compositionally by adapting a strong single-object 3D generative prior to multi-view observations. We instantiate this paradigm with Pixal3D, extending it with a multi-view conditioning pathway that grounds object generation in multiple posed observations. Although the model is finetuned entirely on single objects in canonical space, it generalizes to large scenes with severe occlusion without any scene-level training, demonstrating the feasibility and scalability of this paradigm. We further introduce UE-MeshyScene, a photorealistic benchmark of densely cluttered scenes with hundreds of objects, per-object annotations, and ground-truth meshes. Across single-object, controlled multi-object, and UE-MeshyScene evaluations, our method consistently outperforms prior approaches, with larger gains as scene complexity and occlusion increase. Finally, we demonstrate broader applicability by converting generated 3DGS worlds, such as Marble and HY-World 2.0, into compositional mesh scenes.",
+      "mediaUrls": [
+        "https://cdn-uploads.huggingface.co/production/uploads/6039478ab3ecf716b1a5fd4d/44G1quHegYGG-9pQuTZ_7.mp4"
+      ],
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.05416.png",
+      "numComments": 0,
+      "submittedBy": {
+        "_id": "6039478ab3ecf716b1a5fd4d",
+        "avatarUrl": "https://cdn-avatars.huggingface.co/v1/production/uploads/6039478ab3ecf716b1a5fd4d/_Thy4E7taiSYBLKxEKJbT.jpeg",
+        "fullname": "taesiri",
+        "name": "taesiri",
+        "type": "user",
+        "isPro": true,
+        "isHf": false,
+        "isHfAdmin": false,
+        "isMod": false,
+        "followerCount": 370,
+        "isUserFollowing": false
+      },
+      "isAuthorParticipating": false
+    },
+    {
+      "paper": {
+        "id": "2609.04304",
+        "authors": [
+          {
+            "_id": "6a9e16dade5ea82090db6506",
+            "name": "Ziyuan Liu",
+            "hidden": false
+          },
+          {
+            "_id": "6a9e16dade5ea82090db6507",
+            "name": "Hengqi Liu",
+            "hidden": false
+          },
+          {
+            "_id": "6a9e16dade5ea82090db6508",
+            "name": "Zichuan Wang",
+            "hidden": false
+          },
+          {
+            "_id": "6a9e16dade5ea82090db6509",
+            "name": "Yang Qin",
+            "hidden": false
+          },
+          {
+            "_id": "6a9e16dade5ea82090db650a",
+            "name": "Jiachen Liang",
+            "hidden": false
+          },
+          {
+            "_id": "6a9e16dade5ea82090db650b",
+            "name": "Xu Chu",
+            "hidden": false
+          },
+          {
+            "_id": "6a9e16dade5ea82090db650c",
+            "name": "Shaowei Chen",
+            "hidden": false
+          },
+          {
+            "_id": "6a9e16dade5ea82090db650d",
+            "name": "Yuantao Gu",
+            "hidden": false
+          },
+          {
+            "_id": "6a9e16dade5ea82090db650e",
+            "name": "Mu Chuan",
+            "hidden": false
+          }
+        ],
+        "publishedAt": "2026-09-03T00:00:00.000Z",
+        "submittedOnDailyAt": "2026-09-07T00:00:00.000Z",
+        "title": "Iris: Climbing to the Search Frontier",
+        "submittedOnDailyBy": {
+          "_id": "67bb32b6a0cb6e48cfd27d80",
+          "avatarUrl": "/avatars/3cafe3a3fb60405252962d00105667c5.svg",
+          "isPro": false,
+          "fullname": "Ziyuan Liu",
+          "user": "circleLZY",
+          "type": "user",
+          "name": "circleLZY"
+        },
+        "summary": "We present Iris-mini and Iris-pro, two search agents trained at the 35B-A3B and 397B-A17B scales, together with the data pipeline and training recipe behind them. Tasks are reverse-constructed from the hyperlink structure of a web corpus: we author multi-hop chains over an entity graph distilled from a seed page and its out-links, rewrite every non-answer entity into a descriptive reference so that no clue can be resolved by string matching, and admit only questions that a reference model fails closed-book yet solves once the supporting evidence is supplied. These questions are then turned into trajectories, which are filtered at both the trajectory and the turn level before SFT. The policy is then optimized by RL against live search, with the reward judge and the observation summarizer served inside the training cluster, and with over-long rollouts interrupted at the request level and resumed from their committed prefix at the next step. We alternate the two stages in a procedure we call SFT-RL climbing, returning the hardest solved and most efficient rollouts of each RL round to the next supervised pass. Because inference-time context management is worth more on these benchmarks than most reported differences between systems, we evaluate every benchmark both with and without it, holding the tool set, the context limit, and the judge fixed. All results come from a single ReAct agent, with no sub-agents and no test-time verification. With management enabled, on BrowseComp, BrowseComp-ZH, DeepSearchQA, and HLE the two models reach 82.2/84.8/86.9/52.3 and 88.6/85.1/92.9/56.4, the strongest overall results among open-source search agents in their respective parameter ranges. We plan to release the model weights together with the complete recipe for data construction, training, and evaluation.",
+        "upvotes": 1,
+        "discussionId": "6a9e16dade5ea82090db650f",
+        "githubRepo": "https://github.com/AllSpark-Research/Iris",
+        "githubRepoAddedBy": "user",
+        "ai_summary": "Two large-scale search agents are trained via a multi-stage pipeline combining supervised fine-tuning and reinforcement learning against live search, achieving state-of-the-art open-source results on complex web benchmarks through rigorous trajectory filtering and inference-time context management.",
+        "ai_keywords": [
+          "search agents",
+          "multi-hop chains",
+          "entity graph",
+          "supervised fine-tuning",
+          "reinforcement learning",
+          "live search",
+          "SFT-RL climbing",
+          "ReAct agent",
+          "context management",
+          "BrowseComp",
+          "DeepSearchQA"
+        ],
+        "ai_summary_model": "thinkingmachines/Inkling-Small",
+        "organization": {
+          "_id": "6a96bf5bae44840b913e27b8",
+          "name": "AllSpark-Research",
+          "fullname": "AllSpark Research",
+          "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/6a96be78642bb1433bbbf002/e9W8yeoVttMzcdc_Z_VrR.png"
+        }
+      },
+      "publishedAt": "2026-09-02T20:00:00.000Z",
+      "title": "Iris: Climbing to the Search Frontier",
+      "summary": "We present Iris-mini and Iris-pro, two search agents trained at the 35B-A3B and 397B-A17B scales, together with the data pipeline and training recipe behind them. Tasks are reverse-constructed from the hyperlink structure of a web corpus: we author multi-hop chains over an entity graph distilled from a seed page and its out-links, rewrite every non-answer entity into a descriptive reference so that no clue can be resolved by string matching, and admit only questions that a reference model fails closed-book yet solves once the supporting evidence is supplied. These questions are then turned into trajectories, which are filtered at both the trajectory and the turn level before SFT. The policy is then optimized by RL against live search, with the reward judge and the observation summarizer served inside the training cluster, and with over-long rollouts interrupted at the request level and resumed from their committed prefix at the next step. We alternate the two stages in a procedure we call SFT-RL climbing, returning the hardest solved and most efficient rollouts of each RL round to the next supervised pass. Because inference-time context management is worth more on these benchmarks than most reported differences between systems, we evaluate every benchmark both with and without it, holding the tool set, the context limit, and the judge fixed. All results come from a single ReAct agent, with no sub-agents and no test-time verification. With management enabled, on BrowseComp, BrowseComp-ZH, DeepSearchQA, and HLE the two models reach 82.2/84.8/86.9/52.3 and 88.6/85.1/92.9/56.4, the strongest overall results among open-source search agents in their respective parameter ranges. We plan to release the model weights together with the complete recipe for data construction, training, and evaluation.",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.04304.png",
+      "numComments": 1,
+      "submittedBy": {
+        "_id": "67bb32b6a0cb6e48cfd27d80",
+        "avatarUrl": "/avatars/3cafe3a3fb60405252962d00105667c5.svg",
+        "fullname": "Ziyuan Liu",
+        "name": "circleLZY",
+        "type": "user",
+        "isPro": false,
+        "isHf": false,
+        "isHfAdmin": false,
+        "isMod": false,
+        "isUserFollowing": false
+      },
+      "organization": {
+        "_id": "6a96bf5bae44840b913e27b8",
+        "name": "AllSpark-Research",
+        "fullname": "AllSpark Research",
+        "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/6a96be78642bb1433bbbf002/e9W8yeoVttMzcdc_Z_VrR.png"
+      },
+      "isAuthorParticipating": false
+    },
+    {
+      "paper": {
+        "id": "2609.00444",
+        "authors": [
+          {
+            "_id": "6a9e1a2ede5ea82090db653a",
+            "name": "Sheng Jia",
+            "hidden": false
+          },
+          {
+            "_id": "6a9e1a2ede5ea82090db653b",
+            "name": "Xiao Wang",
+            "hidden": false
+          },
+          {
+            "_id": "6a9e1a2ede5ea82090db653c",
+            "name": "Shiva Prasad Kasiviswanathan",
+            "hidden": false
+          },
+          {
+            "_id": "6a9e1a2ede5ea82090db653d",
+            "name": "Rein Houthooft",
+            "hidden": false
+          }
+        ],
+        "publishedAt": "2026-08-31T00:00:00.000Z",
+        "submittedOnDailyAt": "2026-09-07T00:00:00.000Z",
+        "title": "Group Adaptive Clipping Policy Optimization",
+        "submittedOnDailyBy": {
+          "_id": "66aa6b432795c28eb3a0b66b",
+          "avatarUrl": "/avatars/dff15a8279c2365e14a36de588f7e2e3.svg",
+          "isPro": true,
+          "fullname": "Sheng Jia",
+          "user": "shengjia-toronto",
+          "type": "user",
+          "name": "shengjia-toronto"
+        },
+        "summary": "Group relative policy optimization for reinforcement learning with verifiable rewards (RLVR) typically uses a fixed importance-sampling (IS) ratio clipping boundary across all rollouts. We identify a key limitation: rare correct rollouts on harder problems and abundant correct rollouts on easier problems are clipped at comparable rates, despite contributing very different learning signals. Rollouts with low group success exhibit larger IS ratios and carry stronger gradient signal for exploration and solving new problems, yet are disproportionately suppressed by fixed clipping.\n  To address this, we propose Group Adaptive Clipping Policy Optimization (GAPO), a plug-in modification to GRPO methods that adapts the clipping boundary to the rollout advantage. GAPO is motivated by a reverse-KL trust-region perspective, which suggests that rollouts with larger learning signal should receive proportionally greater update headroom. GAPO requires no reward shaping and preserves the standard PPO/GSPO surrogate while adapting only the clipping threshold. Across Qwen and Llama models, GAPO consistently improves both Pass@1 and Pass@k over fixed clipping and advantage-shaping baselines on math reasoning and coding benchmarks where the pass rates by the base model are relatively low.",
+        "upvotes": 0,
+        "discussionId": "6a9e1a2ede5ea82090db653e",
+        "ai_summary": "GAPO adaptively adjusts importance-sampling clipping thresholds based on rollout advantage to preserve stronger gradient signals from low-success groups in reinforcement learning with verifiable rewards.",
+        "ai_keywords": [
+          "Group Adaptive Clipping Policy Optimization",
+          "GRPO",
+          "importance-sampling ratio clipping",
+          "rollout advantage",
+          "reverse-KL trust-region",
+          "PPO surrogate",
+          "reinforcement learning with verifiable rewards"
+        ],
+        "ai_summary_model": "thinkingmachines/Inkling-Small",
+        "organization": {
+          "_id": "5ffdfbadbba2ae614d771970",
+          "name": "amazon",
+          "fullname": "Amazon",
+          "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/66f19ed428ae41c20c470792/8y7msN6A6W82LdQhQd85a.png"
+        }
+      },
+      "publishedAt": "2026-08-30T20:00:00.000Z",
+      "title": "Group Adaptive Clipping Policy Optimization",
+      "summary": "Group relative policy optimization for reinforcement learning with verifiable rewards (RLVR) typically uses a fixed importance-sampling (IS) ratio clipping boundary across all rollouts. We identify a key limitation: rare correct rollouts on harder problems and abundant correct rollouts on easier problems are clipped at comparable rates, despite contributing very different learning signals. Rollouts with low group success exhibit larger IS ratios and carry stronger gradient signal for exploration and solving new problems, yet are disproportionately suppressed by fixed clipping.\n  To address this, we propose Group Adaptive Clipping Policy Optimization (GAPO), a plug-in modification to GRPO methods that adapts the clipping boundary to the rollout advantage. GAPO is motivated by a reverse-KL trust-region perspective, which suggests that rollouts with larger learning signal should receive proportionally greater update headroom. GAPO requires no reward shaping and preserves the standard PPO/GSPO surrogate while adapting only the clipping threshold. Across Qwen and Llama models, GAPO consistently improves both Pass@1 and Pass@k over fixed clipping and advantage-shaping baselines on math reasoning and coding benchmarks where the pass rates by the base model are relatively low.",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.00444.png",
+      "numComments": 1,
+      "submittedBy": {
+        "_id": "66aa6b432795c28eb3a0b66b",
+        "avatarUrl": "/avatars/dff15a8279c2365e14a36de588f7e2e3.svg",
+        "fullname": "Sheng Jia",
+        "name": "shengjia-toronto",
+        "type": "user",
+        "isPro": true,
+        "isHf": false,
+        "isHfAdmin": false,
+        "isMod": false,
+        "isUserFollowing": false
+      },
+      "organization": {
+        "_id": "5ffdfbadbba2ae614d771970",
+        "name": "amazon",
+        "fullname": "Amazon",
+        "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/66f19ed428ae41c20c470792/8y7msN6A6W82LdQhQd85a.png"
+      },
+      "isAuthorParticipating": false
+    }
+  ],
+  "papers": [
+    {
+      "id": "2609.05416",
+      "title": "WorldSculpt: Generating Compositional Worlds from Grounded Videos",
+      "abstract": "We study the problem of generating a compositional 3D representation of a cluttered scene containing hundreds of objects. The goal is to represent the scene as a collection of individual object meshes placed in a shared world frame, as required by downstream applications such as gaming, AR/VR, simulation, and robotics. This task is challenging in densely cluttered scenes, where objects heavily occlude one another and each view reveals only a fraction of their geometry. Geometry-based approaches typically reconstruct the scene as a single representation and leave incomplete geometry in occluded regions, while existing compositional methods with generative priors are largely limited to relatively simple scenes. We show that complex scenes with hundreds of objects can instead be generated compositionally by adapting a strong single-object 3D generative prior to multi-view observations. We instantiate this paradigm with Pixal3D, extending it with a multi-view conditioning pathway that grounds object generation in multiple posed observations. Although the model is finetuned entirely on single objects in canonical space, it generalizes to large scenes with severe occlusion without any scene-level training, demonstrating the feasibility and scalability of this paradigm. We further introduce UE-MeshyScene, a photorealistic benchmark of densely cluttered scenes with hundreds of objects, per-object annotations, and ground-truth meshes. Across single-object, controlled multi-object, and UE-MeshyScene evaluations, our method consistently outperforms prior approaches, with larger gains as scene complexity and occlusion increase. Finally, we demonstrate broader applicability by converting generated 3DGS worlds, such as Marble and HY-World 2.0, into compositional mesh scenes.",
+      "published_at": "2026-09-04T00:00:00.000Z",
+      "submitted_on_daily_at": "2026-09-07T00:00:00.000Z",
+      "authors": [
+        "Muyao Niu",
+        "Jixuan He",
+        "Ruihan Yu",
+        "Lian Fu",
+        "Yonghao Yu",
+        "Zheng-Hui Huang",
+        "Yifan Zhan",
+        "Fengbo Lan",
+        "Yongtao Ge",
+        "Yinqiang Zheng",
+        "Kaipeng Zhang",
+        "Zhixiang Wang"
+      ],
+      "upvotes": 1,
+      "hf_url": "https://huggingface.co/papers/2609.05416",
+      "arxiv_url": "https://arxiv.org/abs/2609.05416",
+      "html_url": "https://arxiv.org/html/2609.05416",
+      "github_url_unverified": "https://github.com/AlayaLab/WorldSculpt"
+    },
+    {
+      "id": "2609.04304",
+      "title": "Iris: Climbing to the Search Frontier",
+      "abstract": "We present Iris-mini and Iris-pro, two search agents trained at the 35B-A3B and 397B-A17B scales, together with the data pipeline and training recipe behind them. Tasks are reverse-constructed from the hyperlink structure of a web corpus: we author multi-hop chains over an entity graph distilled from a seed page and its out-links, rewrite every non-answer entity into a descriptive reference so that no clue can be resolved by string matching, and admit only questions that a reference model fails closed-book yet solves once the supporting evidence is supplied. These questions are then turned into trajectories, which are filtered at both the trajectory and the turn level before SFT. The policy is then optimized by RL against live search, with the reward judge and the observation summarizer served inside the training cluster, and with over-long rollouts interrupted at the request level and resumed from their committed prefix at the next step. We alternate the two stages in a procedure we call SFT-RL climbing, returning the hardest solved and most efficient rollouts of each RL round to the next supervised pass. Because inference-time context management is worth more on these benchmarks than most reported differences between systems, we evaluate every benchmark both with and without it, holding the tool set, the context limit, and the judge fixed. All results come from a single ReAct agent, with no sub-agents and no test-time verification. With management enabled, on BrowseComp, BrowseComp-ZH, DeepSearchQA, and HLE the two models reach 82.2/84.8/86.9/52.3 and 88.6/85.1/92.9/56.4, the strongest overall results among open-source search agents in their respective parameter ranges. We plan to release the model weights together with the complete recipe for data construction, training, and evaluation.",
+      "published_at": "2026-09-03T00:00:00.000Z",
+      "submitted_on_daily_at": "2026-09-07T00:00:00.000Z",
+      "authors": [
+        "Ziyuan Liu",
+        "Hengqi Liu",
+        "Zichuan Wang",
+        "Yang Qin",
+        "Jiachen Liang",
+        "Xu Chu",
+        "Shaowei Chen",
+        "Yuantao Gu",
+        "Mu Chuan"
+      ],
+      "upvotes": 1,
+      "hf_url": "https://huggingface.co/papers/2609.04304",
+      "arxiv_url": "https://arxiv.org/abs/2609.04304",
+      "html_url": "https://arxiv.org/html/2609.04304",
+      "github_url_unverified": "https://github.com/AllSpark-Research/Iris"
+    },
+    {
+      "id": "2609.00444",
+      "title": "Group Adaptive Clipping Policy Optimization",
+      "abstract": "Group relative policy optimization for reinforcement learning with verifiable rewards (RLVR) typically uses a fixed importance-sampling (IS) ratio clipping boundary across all rollouts. We identify a key limitation: rare correct rollouts on harder problems and abundant correct rollouts on easier problems are clipped at comparable rates, despite contributing very different learning signals. Rollouts with low group success exhibit larger IS ratios and carry stronger gradient signal for exploration and solving new problems, yet are disproportionately suppressed by fixed clipping.\n  To address this, we propose Group Adaptive Clipping Policy Optimization (GAPO), a plug-in modification to GRPO methods that adapts the clipping boundary to the rollout advantage. GAPO is motivated by a reverse-KL trust-region perspective, which suggests that rollouts with larger learning signal should receive proportionally greater update headroom. GAPO requires no reward shaping and preserves the standard PPO/GSPO surrogate while adapting only the clipping threshold. Across Qwen and Llama models, GAPO consistently improves both Pass@1 and Pass@k over fixed clipping and advantage-shaping baselines on math reasoning and coding benchmarks where the pass rates by the base model are relatively low.",
+      "published_at": "2026-08-31T00:00:00.000Z",
+      "submitted_on_daily_at": "2026-09-07T00:00:00.000Z",
+      "authors": [
+        "Sheng Jia",
+        "Xiao Wang",
+        "Shiva Prasad Kasiviswanathan",
+        "Rein Houthooft"
+      ],
+      "upvotes": 0,
+      "hf_url": "https://huggingface.co/papers/2609.00444",
+      "arxiv_url": "https://arxiv.org/abs/2609.00444",
+      "html_url": "https://arxiv.org/html/2609.00444",
+      "github_url_unverified": null
+    }
+  ],
+  "source_count": 3,
+  "count": 3
+}
